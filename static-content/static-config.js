@@ -81,7 +81,7 @@ window.MAIN_CONTENT = {
           items: [
             {
               id: 'news-1',
-              title: 'Lễ Khai giảng năm học mới 2024-2025',
+              title: 'Lễ Khai giảng năm học mới 2024-2025!!!',
               subtitle: 'Trường sẽ tổ chức Lễ Khai giảng vào ngày 15 tháng 9 năm 2024 tại giảng đường chính.',
               date: '15/09/2024',
               category: 'Sự kiện',
