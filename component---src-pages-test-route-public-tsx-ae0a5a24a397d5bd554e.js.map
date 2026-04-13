@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-test-route-public-tsx-ae0a5a24a397d5bd554e.js","mappings":"iKAGA,cAAqBA,EAAAA,cAAAA,EAAAA,SAAA,KAAE,S","sources":["webpack://gatsby-starter-minimal-ts/./src/pages/test/route/public.tsx"],"sourcesContent":["import React from \"react\";\n\n\nexport default () => <>\n\n\npublic\n\n</>\n\n"],"names":["React"],"sourceRoot":""}

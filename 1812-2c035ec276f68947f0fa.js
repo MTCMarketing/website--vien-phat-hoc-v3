@@ -1,0 +1,1 @@
+(self.webpackChunkgatsby_starter_minimal_ts=self.webpackChunkgatsby_starter_minimal_ts||[]).push([[1812],{1812:function(){}}]);

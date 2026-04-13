@@ -1,0 +1,1779 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- Basic Page Needs
+    ================================================== -->
+    <meta charset="utf-8">
+    <base href="https://bodephatquoc.org/templates/home/version5/">
+
+    <meta name="description" content="Viện Phật Học - Bồ Đề Phật Quốc TV-57.15">
+    <meta property="og:image" content="/cdn-cgi/image/quality=90/files/maxresdefault_live.jpg">
+    <meta name="keywords" content="Bồ Đề Phật Quốc, bo de phat quoc tv-57.15, tv-57.15, viện phật học bồ đề phật quốc, viện phật học, vien phat hoc bo de phat quoc, trung quan luan, xa luan, kinh kim cang, le phat dan, cao đăng phật quốc, phật học tại Mỹ ">
+
+    <title>VIEN PHAT HOC-</title>
+   
+
+    <!-- Mobile Specific Metas
+    ================================================== -->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+    <!--Favicon-->
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    
+    <!-- CSS
+    ================================================== -->
+    
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Template styles-->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Responsive styles-->
+    <link rel="stylesheet" href="css/responsive.css">
+    <!-- FontAwesome -->
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <!-- Colorbox -->
+    <link rel="stylesheet" href="css/colorbox.css">
+
+    <link rel="stylesheet" href="css/custom.css">
+
+    <!-- videojs -->
+    <link href="https://vjs.zencdn.net/7.20.1/video-js.css" rel="stylesheet" />
+    <!-- end -->
+     <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-1EYDD9F79V"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-1EYDD9F79V');
+        </script>
+
+</head>
+    
+<body>
+
+    <div class="body-inner">
+
+    <!-- Header start -->
+    <header id="header" class="header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-12">
+                    <div class="logo">
+                         <a href="https://bodephatquoc.org/">
+                            <img src="images/logos/bdpq.png" alt="">
+                         </a>
+                    </div>
+                </div><!-- logo col end -->
+
+                <div class="col-md-9 col-sm-12 header-right">
+                    <a href="https://www.sakyauniversity.com/" target="_blank" ><img style="border: 2px solid white;" src="images/banner-ads/banner-02.png" alt=""></a>
+                </div>
+                <!-- header right end -->
+
+            </div><!-- Row end -->
+        </div><!-- Logo and banner area end -->
+    </header><!--/ Header end -->
+
+    <div class="main-nav clearfix">
+        <div class="container">
+            <div class="row">
+                <nav class="navbar navbar-expand-lg col">
+                    <div class="site-nav-inner float-left">
+               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+               </button>
+               <!-- End of Navbar toggler -->
+
+                        <div id="navbarSupportedContent" class="collapse navbar-collapse navbar-responsive-collapse">
+                            <ul class="nav navbar-nav">
+                                
+                                <!-- tin mới -->
+                                <li class="nav-item dropdown ">
+                                    <a  class="nav-link" data-toggle="dropdown">Nội Viện<i class="fa fa-angle-down"></i></a>
+                                    <ul id="menu_0" class="dropdown-menu" role="menu">
+                                        <li><a href="https://bodephatquoc.org/gioi-thieu/2-loi-tu-bach">Lời tự bạch</a></li><li><a href="https://bodephatquoc.org/gioi-thieu/8-tieu-su-thuong-toa-thich-huyen-chau">Tiểu sử Thượng tọa Thích Huyền Châu</a></li><li><a href="https://bodephatquoc.org/gioi-thieu/1-giao-trinh-lop-cao-dang">Giáo trình lớp Cao đẳng</a></li><li><a href="https://bodephatquoc.org/gioi-thieu/15-giao-trinh-lop-so-trung-dang">Giáo trình lớp Sơ Trung Đẳng</a></li><li><a href="https://bodephatquoc.org/gioi-thieu/3-ban-chung-minh">Ban chứng minh</a></li><li><a href="https://bodephatquoc.org/gioi-thieu/4-ban-co-van">Ban cố vấn</a></li><li><a href="https://bodephatquoc.org/gioi-thieu/5-ban-giam-vien">Ban giám viện</a></li><li><a href="https://bodephatquoc.org/gioi-thieu/9-ban-giao-tho">Ban giáo thọ</a></li><li><a href="https://bodephatquoc.org/gioi-thieu/10-ban-truyen-thong">Ban truyền thông</a></li><li><a href="https://bodephatquoc.org/gioi-thieu/14-bo-de-phat-quoc-tv-57-15">Bồ Đề Phật Quốc TV-57.15</a></li><li><a href="https://bodephatquoc.org/gioi-thieu/11-tang-vien-noi-tru">Tăng viện Nội trú</a></li><li><a href="https://bodephatquoc.org/gioi-thieu/13-ni-vien-bo-de-phat-quoc">Ni viện Bồ Đề Phật Quốc</a></li><li><a href="https://bodephatquoc.org/gioi-thieu/12-ghi-danh-nhap-hoc">Ghi danh nhập học</a></li>                                        
+                                    </ul>
+                                </li>
+
+                                <!-- Tin tức -->
+                                <li class="dropdown">
+                                    <a  class="nav-link dropdown-toggle" data-toggle="dropdown"
+                                    role="button" aria-haspopup="true" aria-expanded="false">Thông Tin Mới<i class="fa fa-angle-down"></i></a>
+                                    <ul id="menu_1" class="dropdown-menu" role="menu1">
+                                        <li><a href="https://bodephatquoc.org/7-ban-tin-lop-so-trung-dang">Bản tin Lớp Sơ Trung Đẳng</a></li><li><a href="https://bodephatquoc.org/6-ban-tin-lop-cao-dang">Bản tin Lớp Cao Đẳng</a></li><li><a href="https://bodephatquoc.org/9-ban-tin-tu-hoc-cuoi-tuan">Bản tin Tu học Cuối tuần</a></li><li><a href="https://bodephatquoc.org/11-chuong-trinh-phat-song-t-v">Chương trình Phát sóng T.V</a></li><li><a href="https://bodephatquoc.org/8-ban-tin-bat-quan-trai">Bản tin Bát Quan Trai</a></li><li><a href="https://bodephatquoc.org/3-tai-lieu-hoc">Tài liệu học</a></li><li><a href="https://bodephatquoc.org/10-ban-tin-phap-nhac-am">Bản tin Pháp Nhạc Âm</a></li><li><a href="https://bodephatquoc.org/16-tai-lieu">Tài Liệu</a></li><li><a href="https://bodephatquoc.org/2-thong-bao">Thông báo</a></li><li><a href="https://bodephatquoc.org/17-thoi-khoa-bieu">Thời Khóa Biểu</a></li><li><a href="https://bodephatquoc.org/12-thoi-khoa-bieu-so-trung-dang">Thời khóa biểu Sơ Trung Đẳng</a></li><li><a href="https://bodephatquoc.org/13-thoi-khoa-bieu-lop-cao-dang">Thời khóa biểu Lớp Cao Đẳng</a></li><li><a href="https://bodephatquoc.org/5-dien-thu-phan-uu">Điện thư Phân ưu</a></li><li><a href="https://bodephatquoc.org/14-dai-gioi-dan">Đại giới đàn</a></li><li><a href="https://bodephatquoc.org/15-tho-cam-tu-tuy-but">Thơ - Cảm từ - Tùy bút</a></li>                                    </ul>
+                                </li>
+
+                                <!-- Lớp Sơ trung đẳng -->
+                               <li class="dropdown">
+                                    <a  class="nav-link dropdown-toggle" data-toggle="dropdown"
+                                    role="button" aria-haspopup="true" aria-expanded="false">Lớp Sơ Trung Đẳng <i class="fa fa-angle-down"></i></a>
+                                    <ul id="menu_2" class="dropdown-menu">
+
+                                        <li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/331-nien-khoa-2025-2028">Niên Khóa 2025 - 2028</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/332-kinh-bach-du">Kinh Bách Dụ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/343-phap-uan-tuc-luan">Pháp Uẩn Túc Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/347-kinh-tap-a-ham">Kinh Tạp A Hàm</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/333-luoc-su-phat-giao-mahayana">Lược Sử Phật Giáo Mahayana</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/334-kinh-phat-thuyet-a-di-da">Kinh Phật Thuyết A Di Đà</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/349-kinh-di-giao">Kinh Di Giáo</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/350-kinh-tu-thap-nhi-chuong">Kinh Tứ Thập Nhị Chương</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/352-kinh-trung-bo-toat-yeu">Kinh Trung Bộ Toát Yếu</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/354-du-gia-bo-tat-gioi">Du Già Bồ Tát Giới</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/335-tu-tuong-phat-hoc">Tư Tưởng Phật Học</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/336-kinh-phap-cu">Kinh Pháp Cú</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/337-kinh-bat-dai-nhan-giac">Kinh Bát Đại Nhân Giác</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/344-luoc-su-phat-giao-viet-nam">Lược Sử Phật Giáo Việt Nam</a></li></ul></i><li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/164-nien-khoa-2022-2025">Niên Khóa 2022 - 2025</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/165-bai-hoc-hom-nay-co-gi-">Bài Học Hôm Nay Có Gì?</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/265-kinh-bat-dai-nhan-giac">Kinh Bát Đại Nhân Giác</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/267-kinh-a-di-da-yeu-luoc">Kinh A Di Đà Yếu Lược</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/268-kinh-tang-chi-bo-1">Kinh Tăng Chi Bộ 1</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/271-kinh-trung-a-ham-1">Kinh Trung A Hàm 1</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/260-du-gia-bo-tat-gioi">Du Già Bồ Tát Giới</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/272-kinh-kim-cang">Kinh Kim Cang</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/273-kinh-di-giao">Kinh Di Giáo</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/313-tong-quan-gioi-luat-phat-giao">Tổng Quan Giới Luật Phật Giáo</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/174-kinh-tu-thap-nhi-chuong">Kinh Tứ thập Nhị Chương</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/258-kinh-phap-cu">Kinh Pháp Cú</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/175-tu-tuong-phat-hoc">Tư Tưởng Phật Học</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/183-luan-dai-thua-tram-phap">Luận Đại Thừa Trăm Pháp</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/296-kinh-trung-bo-toat-yeu-2">Kinh Trung Bộ Toát Yếu 2</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/306-kinh-trung-a-ham-2">Kinh Trung A Hàm 2</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/184-trung-bo-kinh-toat-yeu-1">Trung Bộ Kinh Toát Yếu 1</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/185-kinh-thang-man">Kinh Thắng Man</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/305-kinh-tap-a-ham">Kinh Tạp A Hàm</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/186-kinh-na-tien-ty-kheo">Kinh Na Tiên Tỳ Kheo</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/187-kinh-bach-du">Kinh Bách Dụ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/304-kinh-tang-chi-bo-2">Kinh Tăng Chi Bộ 2</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/188-phat-phap-co-ban">Phật Pháp Cơ Bản</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/264-nhi-khoa-hiep-giai">Nhị Khóa Hiệp Giải</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/282-tam-kinh-bat-nha">Tâm Kinh Bát Nhã</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/283-duy-thuc-tam-thap-tung">Duy Thức Tâm Thập Tụng</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/308-kinh-duy-ma-cat">Kinh Duy Ma Cật</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/286-kinh-vien-giac">Kinh Viên Giác</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/288-tap-di-mon-luan">Tập Dị Môn Luận</a></li></ul></i><li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/261-su-phat-giao-2022-2025-">Sử Phật giáo (2022-2025)</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/281-viet-nam-phat-giao-su-luoc">Việt Nam Phật Giáo Sử Lược</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/167-phat-giao-an-do">Phật Giáo Ấn Độ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/168-phat-giao-nhat-ban">Phật Giáo Nhật Bản</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/290-luoc-su-phat-giao-lao">Lược Sử Phật Giáo Lào</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/287-luoc-su-phat-giao-thai-lan">Lược Sử Phật Giáo Thái Lan</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/292-luoc-su-phat-giao-mien-dien">Lược Sử Phật Giáo Miến Điện</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/293-luoc-su-phat-giao-sri-lanka">Lược Sử Phật Giáo Sri Lanka</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/294-luoc-su-phat-giao-tay-tang">Lược Sử Phật Giáo Tây Tạng</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/303-luoc-su-phat-giao-mong-co">Lược Sử Phật Giáo Mông Cổ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/312-luoc-su-phat-giao-cambodia">Lược Sử Phật Giáo Cambodia</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/297-luoc-su-phat-giao-han-quoc">Lược Sử Phật Giáo Hàn Quốc</a></li></ul></i><li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/39-nien-khoa-2019-2022">Niên Khóa 2019-2022</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/73-bai-hoc-hom-nay-co-gi-">Bài học Hôm nay có gì?</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/82-kinh-trung-a-ham">Kinh Trung A Hàm</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/158-dai-thua-khoi-tin-luan">Đại Thừa Khởi Tín Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/84-kinh-tap-a-ham">Kinh Tạp A Hàm</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/77-kinh-trung-bo">Kinh Trung Bộ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/79-kinh-tang-chi-bo">Kinh Tăng Chi Bộ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/97-tu-tuong-phat-hoc">Tư Tưởng Phật Học</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/96-phat-phap-co-ban">Phật Pháp Cơ Bản</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/131-tu-tuong-phat-hoc">Tư Tưởng Phật Học</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/98-kinh-phap-cu">Kinh Pháp Cú</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/100-kinh-bach-du">Kinh Bách Dụ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/103-kinh-tu-thap-nhi-chuong">Kinh Tứ Thập Nhị Chương</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/102-kinh-vien-giac">Kinh Viên Giác</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/105-kinh-kim-cang">Kinh Kim Cang</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/106-kinh-thang-man">Kinh Thắng Man</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/107-kinh-phat-thuyet-a-di-da">Kinh Phật Thuyết A Di Đà</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/108-kinh-na-tien-ty-kheo">Kinh Na Tiên Tỳ Kheo</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/109-trung-quan-luan">Trung Quán Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/110-thanh-tinh-dao-luan">Thanh Tịnh Đạo Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/99-kinh-bat-dai-nhan-giac">Kinh Bát Đại Nhân Giác</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/112-bach-phap-minh-mon-luan">Bách Pháp Minh Môn Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/113-du-gia-bo-tat-gioi">Du già Bồ tát giới</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/115-tam-kinh-bat-nha">Tâm Kinh Bát Nhã</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/111-duy-thuc-tam-thap-tung">Duy Thức Tam Thập Tụng</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/114-nhi-khoa-hiep-giai">Nhị Khóa Hiệp Giải</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/101-kinh-duy-ma-cat-so-thuyet">Kinh Duy Ma Cật Sở Thuyết</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/104-kinh-di-giao">Kinh Di Giáo</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/116-thuc-tap-da-ngoai">Thực Tập dã ngoại</a></li></ul></i><li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/75-su-phat-giao-2019-2022-">Sử Phật giáo (2019-2022)</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/85-phat-giao-an-do">Phật giáo Ấn Độ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/86-phat-giao-viet-nam">Phật giáo Việt Nam</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/87-phat-giao-trung-quoc">Phật Giáo Trung Quốc</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/88-phat-giao-nhat-ban">Phật giáo Nhật Bản</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/89-phat-giao-mien-dien">Phật giáo Miến Điện</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/90-phat-giao-tich-lan">Phật giáo Tích Lan</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/91-phat-giao-thai-lan">Phật giáo Thái Lan</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/92-phat-giao-trieu-tien">Phật giáo Triều Tiên</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/93-phat-giao-tay-tang">Phật giáo Tây Tạng</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/94-phat-giao-campuchia">Phật giáo Campuchia</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/151-phat-giao-lao">Phật giáo Lào</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/95-phat-giao-hoa-ky">Phật giáo Hoa Kỳ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/153-phat-giao-mong-co">Phật giáo Mông Cổ</a></li></ul></i><li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/38-nien-khoa-2016-2019">Niên Khóa 2016-2019</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/10-kinh-tap-a-ham">Kinh Tạp A Hàm</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/1-kinh-trung-a-ham">Kinh Trung A Hàm</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/12-kinh-trung-bo">Kinh Trung Bộ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/13-kinh-tang-chi-bo">Kinh Tăng Chi Bộ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/52-phat-phap-co-ban">Phật Pháp Cơ Bản</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/53-tu-tuong-phat-hoc">Tư Tưởng Phật Học</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/54-kinh-phap-cu">Kinh Pháp Cú</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/56-kinh-bach-du">Kinh Bách Dụ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/59-kinh-tu-thap-nhi-chuong">Kinh Tứ Thập Nhị Chương</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/58-kinh-vien-giac">Kinh Viên Giác</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/61-kinh-kim-cang">Kinh Kim Cang</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/62-kinh-thang-man">Kinh Thắng Man</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/63-kinh-phat-thuyet-a-di-da">Kinh Phật Thuyết A Di Đà</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/64-kinh-na-tien-ty-kheo">Kinh Na Tiên Tỳ Kheo</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/65-trung-quan-luan">Trung Quán Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/66-thanh-tinh-dao-luan">Thanh Tịnh Đạo Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/55-kinh-bat-dai-nhan-giac">Kinh Bát Đại Nhân Giác</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/68-bach-phap-minh-mon-luan">Bách Pháp Minh Môn Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/69-du-gia-bo-tat-gioi">Du già Bồ tát giới</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/71-tam-kinh-bat-nha">Tâm Kinh Bát Nhã</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/67-duy-thuc-tam-thap-tung">Duy Thức Tam Thập Tụng</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/70-nhi-khoa-hiep-giai">Nhị Khóa Hiệp Giải</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/57-kinh-duy-ma-cat-so-thuyet">Kinh Duy Ma Cật Sở Thuyết</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/60-kinh-di-giao">Kinh Di Giáo</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/72-thuc-tap-da-ngoai">Thực Tập dã ngoại</a></li></ul></i><li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/40-su-phat-giao-2016-2019-">Sử Phật giáo (2016-2019)</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/41-phat-giao-an-do">Phật giáo Ấn Độ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/42-phat-giao-viet-nam">Phật giáo Việt Nam</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/43-phat-giao-trung-quoc">Phật Giáo Trung Quốc</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/44-phat-giao-nhat-ban">Phật giáo Nhật Bản</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/45-phat-giao-mien-dien">Phật giáo Miến Điện</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/46-phat-giao-tich-lan">Phật giáo Tích Lan</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/47-phat-giao-thai-lan">Phật giáo Thái Lan</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/48-phat-giao-trieu-tien">Phật giáo Triều Tiên</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/49-phat-giao-tay-tang">Phật giáo Tây Tạng</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/50-phat-giao-lao-campuchia">Phật giáo Lào - Campuchia</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/51-phat-giao-hoa-ky">Phật giáo Hoa Kỳ</a></li></ul></i>
+                                        
+                                    </ul>
+                                    
+                                </li>
+
+                                <!-- Lớp cao đẳng -->
+                                <li class="dropdown">
+                                    <a  class="nav-link dropdown-toggler" data-toggle="dropdown">Lớp Cao Đẳng<i class="fa fa-angle-down"></i></a>
+                                    <ul id="menu_3" class="dropdown-menu">
+                                        <li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/323-nien-khoa-2025-2028">Niên Khóa 2025 - 2028</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/325-kinh-tang-nhat-a-ham">Kinh Tăng Nhất A Hàm</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/326-kinh-tuong-ung-bo">Kinh Tương Ưng Bộ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/345-thanh-duy-thuc-luan">Thành Duy Thức Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/348-kinh-lang-gia-yeu-luoc">Kinh Lăng Già Yếu Lược</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/327-tanh-khong-luan">Tánh Không Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/351-kinh-dai-bat-niet-ban-yeu-luoc">Kinh Đại Bát Niết Bàn Yếu Lược</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/328-dai-thua-chi-quan-luan">Đại Thừa Chỉ Quán Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/329-luoc-su-phat-giao-theravada">Lược Sử Phật Giáo Theravada</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/330-nhan-minh-luan">Nhân Minh Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/342-cau-xa-luan-i">Câu Xá Luận - I</a></li></ul></i><li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/170-nien-khoa-2022-2025">Niên Khóa 2022 - 2025</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/171-bai-hoc-hom-nay-co-gi-">Bài Học Hôm Nay Có Gì?</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/266-phat-thua-tong-yeu-luan">Phật Thừa Tông Yếu Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/278-kinh-truong-a-ham">Kinh Trường A Hàm</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/298-kinh-truong-bo">Kinh Trường Bộ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/172-yeu-chi-mat-tong">Yếu Chỉ Mật Tông</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/259-kinh-phap-hoa">Kinh Pháp Hoa</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/314-nhan-minh-luan">Nhân Minh Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/173-kinh-hoa-nghiem-yeu-luoc">Kinh Hoa Nghiêm yếu lược</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/315-kinh-dai-thua-nhap-lang-gia">Kinh Đại Thừa Nhập Lăng Già</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/176-kinh-lang-nghiem-yeu-luoc">Kinh Lăng Nghiêm Yếu Lược</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/317-yeu-chi-thien-dinh">Yếu Chỉ Thiền Định</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/320-dai-thua-thanh-nghiep-luan">Đại Thừa Thành Nghiệp Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/177-kinh-tang-nhat-a-ham">Kinh Tăng Nhất A Hàm</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/178-vi-dieu-phap-toat-yeu">Vi Diệu Pháp Toát Yếu</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/179-luan-dai-thua-chi-quan">Luận Đại Thừa Chỉ Quán</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/285-kinh-dai-bat-niet-ban">Kinh Đại Bát Niết Bàn</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/180-kinh-tuong-ung-bo">Kinh Tương Ưng Bộ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/182-luan-thanh-duy-thuc">Luận Thành Duy Thức</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/189-cau-xa-luan">Câu Xá Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/284-luoc-giang-kinh-dai-bat-niet-ban">Lược giảng Kinh Đại Bát Niết Bàn</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/302-thanh-tinh-dao-luan">Thanh Tịnh Đạo Luận</a></li></ul></i><li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/169-nien-khoa-2019-2022">Niên Khóa 2019 - 2022</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/133-bai-hoc-hom-nay-co-gi-">Bài học Hôm nay có gì?</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/23-cau-xa-luan">Câu Xá Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/145-phap-uan-tuc-luan">Pháp Uẩn Túc Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/24-tap-di-mon-luan">Tập Dị Môn Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/120-tanh-khong-luan">Tánh Không Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/121-phat-thua-ton-yeu-luan">Phật thừa Tôn Yếu Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/123-dai-thua-chi-quan-luan">Đại Thừa Chỉ Quán Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/122-toat-yeu-vi-dieu-phap">Toát yếu Vi Diệu Pháp</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/25-thanh-duy-thuc-luan">Thành Duy Thức Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/7-kinh-truong-bo">Kinh Trường Bộ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/8-kinh-tuong-ung-bo">Kinh Tương Ưng Bộ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/9-kinh-truong-a-ham">Kinh Trường A Hàm</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/17-kinh-tang-nhat-a-ham">Kinh Tăng Nhất A Hàm</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/21-kinh-phap-hoa-yeu-luoc">Kinh Pháp Hoa Yếu Lược</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/22-kinh-lang-gia-yeu-luoc">Kinh Lăng Già Yếu Lược</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/16-kinh-hoa-nghiem-yeu-luoc">Kinh Hoa Nghiêm Yếu Lược</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/15-kinh-lang-nghiem-yeu-luoc">Kinh Lăng Nghiêm Yếu Lược</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/152-kinh-dai-bat-niet-ban-yeu-luoc">Kinh Đại Bát Niết Bàn yếu lược</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/124-nhan-minh-luan">Nhân Minh Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/125-yeu-chi-thien-tong">Yếu Chỉ Thiền Tông</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/126-yeu-chi-tinh-do-tong">Yếu Chỉ Tịnh Độ Tông</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/127-yeu-chi-mattong">Yếu Chỉ MậtTông</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/128-yeu-chi-luat-tong">Yếu Chỉ Luật Tông</a></li></ul></i>                                    </ul>
+                                </li>
+
+                                <!-- Lớp A Tỳ Đàm -->
+                                <li class="dropdown">
+                                    <a class="dropdown-toggle" data-toggle="dropdown">Lớp A Tỳ Đàm <i class="fa fa-angle-down"></i></a>
+                                    <ul id="menu_4" class="dropdown-menu">
+                                        <li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/338-nien-khoa-2025-2028">Niên Khóa 2025 - 2028</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/339-vi-dieu-phap-bo-phap-tu">Vi Diệu Pháp - Bộ Pháp Tụ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/341-cau-xa-luan-quyen-5">Câu Xá Luận - Quyển 5</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/340-cau-xa-luan-quyen-2">Câu Xá Luận - Quyển 2</a></li></ul></i><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/253-a-ty-dat-ma-cau-xa-luan">A Tỳ Đạt Ma Câu Xá Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/310-vi-dieu-phap-2">Vi Diệu Pháp 2</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/254-vi-dieu-phap">Vi Diệu Pháp</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/269-thi-thiet-luan">Thi Thiết Luận</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/291-dai-tri-do-luan">Đại Trí Độ Luận</a></li>                                    </ul>
+                                </li>
+
+                                <!-- Đạo Tràng BDPQ -->
+                                <li class="dropdown">
+                                    <a class="dropdown-toggle" data-toggle="dropdown">Đạo Tràng BDPQ <i class="fa fa-angle-down"></i></a>
+                                    <ul id="menu_5" class="dropdown-menu">
+                                        <li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/195-bo-de-phat-quoc-tv-57-15">Bo De Phat Quoc TV - 57.15</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/270-nhu-vang-trang-mat">Như Vầng Trăng Mát</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/275-dien-doc-tay-vuc-ky">Diễn Đọc Tây Vực Ký</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/299-learn-dharma">Learn Dharma</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/301-ai-dharma">AI  DHARMA</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/197-duyen-lanh-cua-phat">Duyên lành cửa Phật</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/300-art-and-dharma">ART and DHARMA</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/311-dien-dan-giao-duc-phat-giao">Diễn Đàn Giáo Dục Phật Giáo</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/230-thong-bao-phong-su-ky-su">Thông báo - Phóng sự - Ký sự</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/319-chu-hien-ngo">Chú Hiền Ngộ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/321-bao-ve-luan-an-tot-nghiep-2025">Bảo Vệ Luận Án Tốt Nghiệp 2025</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/198-than-khoe-tam-an">Thân Khỏe Tâm An</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/276-good-lessons-viet-eng-">Good Lessons (Viet & Eng)</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/250-nguoi-viet-yeu-su-viet">Người Việt Yêu Sử Việt</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/251-chuyen-thieu-nhi-anh-viet">Chuyện thiếu nhi Anh - Việt</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/202-su-minh-loi-kinh-duy-ma-cat">Sư Minh Lợi - Kinh Duy Ma Cật</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/204-thay-quang-hieu">Thầy Quảng Hiếu</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/201-su-minh-loi-chung-dao-ca">Sư Minh Lợi - Chứng Đạo Ca</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/203-ni-su-tinh-quang-phat-giao-hoa-ky">Ni sư Tịnh Quang - Phật giáo Hoa Kỳ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/248-thao-luan-phat-phap">Thảo luận Phật Pháp</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/255-van-dap-phat-phap">Vấn Đáp Phật Pháp</a></li></ul></i><li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/191-kinh-bo-dai-thua">Kinh Bộ Đại Thừa</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/218-kinh-thu-lang-nghiem">Kinh Thủ Lăng Nghiêm</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/219-kinh-phap-hoa">Kinh Pháp Hoa</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/220-kinh-dai-bat-niet-ban">Kinh Đại Bát Niết Bàn</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/221-kinh-kim-cang">Kinh Kim Cang</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/222-kinh-dia-tang">Kinh Địa Tạng</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/223-kinh-duoc-su">Kinh Dược Sư</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/224-kinh-dai-bi-tam-da-la-ni">Kinh Đại Bi Tâm Đà La Ni</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/225-giang-nghia-dai-bi-thap-chu">Giảng nghĩa Đại Bi - Thập Chú</a></li></ul></i><li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/190-kinh-tang-nguyen-thuy">Kinh Tạng Nguyên Thủy</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/226-kinh-tang-nhat-a-ham">Kinh Tăng Nhất A hàm</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/227-kinh-tap-a-ham">Kinh Tạp A hàm</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/228-kinh-tang-chi-bo">Kinh Tăng Chi Bộ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/229-kinh-trung-bo">Kinh Trung Bộ</a></li></ul></i><li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/193-luan-tang">Luận Tạng</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/216-bo-sung-kien-thuc-phat-phap">Bổ sung Kiến Thức Phật Pháp</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/217-phat-phap-can-ban-moi-">Phật Pháp Căn Bản (Mới)</a></li></ul></i><li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/192-luat-tang">Luật Tạng</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/231-du-gia-bo-tat-gioi">Du già Bồ tát giới</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/232-thanh-gioi-nhu-lai">Thánh giới Như lai</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/240-xuat-gia-tho-gioi">Xuất gia - Thọ giới</a></li></ul></i><li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/205-giao-phap-tinh-do-tong">Giáo Pháp Tịnh Độ Tông</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/206-kinh-vo-luong-tho">Kinh Vô Lượng Thọ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/207-kinh-quan-vo-luong-tho">Kinh Quán Vô Lượng Thọ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/208-kinh-niem-phat-ba-la-mat">Kinh Niệm Phật Ba La Mật</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/209-kinh-phat-thuyet-a-di-da">Kinh Phật Thuyết A Di Đà</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/210-yeu-nghia-kinh-di-da">Yếu Nghĩa Kinh Di Đà</a></li></ul></i><li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/211-cac-bo-sam">Các Bộ Sám</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/212-duoc-su-sam-phap">Dược Sư Sám Pháp</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/213-luong-hoang-sam">Lương Hoàng Sám</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/214-tu-bi-thuy-sam">Từ Bi Thủy Sám</a></li></ul></i><li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/196-nhac-bo-de-phat-quoc">Nhạc Bồ Đề Phật Quốc</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/233-talkshow-phap-nhac-am">Talkshow - Pháp Nhạc Âm</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/234-ca-tu-va-thanh-dien">Ca từ và Thánh điển</a></li><li><a href="https://bodephatquoc.org/phap-nhac-am-cd/235-phat-su-ca">Phật Sử Ca</a></li><li><a href="https://bodephatquoc.org/phap-nhac-am-cd/236-gia-tai-bac-thanh">Gia tài Bậc thánh</a></li><li><a href="https://bodephatquoc.org/phap-nhac-am-cd/237-thuyen-ve-ben-mong">Thuyền về Bến mộng</a></li><li><a href="https://bodephatquoc.org/phap-nhac-am-cd/238-hoa-khai-kien-phat">Hoa Khai Kiến Phật</a></li><li><a href="https://bodephatquoc.org/phap-nhac-am-cd/239-dieu-hanh-quan-am">Diệu Hạnh Quán Âm</a></li></ul></i><li class="dropdown-submenu"><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/194-phap-hoi-le-hoi">Pháp Hội - Lễ Hội</a><ul class="dropdown-menu"><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/274-phap-hoi-du-gia">Pháp hội Du Già</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/289-phap-hoi-vo-luong-tho-2023">Pháp Hội Vô Lượng Thọ 2023</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/295-phap-hoi-phat-dan-2024">Pháp Hội Phật Đản 2024</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/318-phap-hoi-duoc-su-2025">Pháp Hội Dược Sư 2025</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/355-hoi-cho-tet-binh-ngo-2026">Hội Chợ Tết Bính Ngọ 2026</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/356-phap-hoi-duoc-su-2026">Pháp Hội Dược Sư 2026</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/241-phap-hoi-phat-dan">Pháp hội Phật Đản</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/279-phap-hoi-vu-lan-2023">Pháp hội Vu Lan 2023</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/309-phap-hoi-vu-lan-2024">Pháp Hội Vu Lan 2024</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/316-phap-hoi-vo-luong-tho-2024">Pháp Hội Vô Lượng Thọ 2024</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/322-phap-hoi-phat-dan-2025">Pháp Hội Phật Đản 2025</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/353-phap-hoi-vo-luong-tho-2025">Pháp Hội Vô Lượng Thọ 2025</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/242-phap-hoi-vu-lan">Pháp hội Vu lan</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/243-phap-hoi-vo-luong-tho">Pháp hội Vô Lượng Thọ</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/244-phap-hoi-duoc-su">Pháp hội Dược Sư</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/346-phap-hoi-vu-lan-2025">Pháp Hội Vu Lan 2025</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/245-le-hoi-xuan">Lễ hội Xuân</a></li></ul></i><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/215-can-tu-trung-am-tai-sanh">Cận tử  - Trung Ấm - Tái Sanh</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/249-ho-tri-chanh-phap">Hộ trì Chánh Pháp</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/199-ban-tin-cuoi-tuan">Bản tin Cuối tuần</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/200-ban-tin-bat-quan-trai">Bản tin Bát Quan Trai</a></li><li><a href="https://bodephatquoc.org/bo-de-phat-quoc-tv/277-ban-tin-phap-hoi">Bản Tin Pháp Hội</a></li>                                    </ul>
+                                    
+                                </li>
+
+                                <!-- Hình Ảnh -->
+                                <li class="dropdown">
+                                    <a  class="nav-link dropdown-toggle" data-toggle="dropdown"
+                                    role="button" aria-haspopup="true" aria-expanded="false">Hình Ảnh<i class="fa fa-angle-down"></i></a>
+                                    <ul id="menu_6" class="dropdown-menu" role="menu1">
+                                        <li><a href="https://bodephatquoc.org/hinh-anh/1-phap-hoi-khoa-tu">Pháp hội - Khóa tu</a></li><li><a href="https://bodephatquoc.org/hinh-anh/10-bat-com-huong-tich">Bát Cơm Hương Tích</a></li><li><a href="https://bodephatquoc.org/hinh-anh/13-dai-gioi-dan">Đại giới đàn</a></li><li><a href="https://bodephatquoc.org/hinh-anh/7-khai-giang-su-kien">Khai Giảng - Sự kiện</a></li><li><a href="https://bodephatquoc.org/hinh-anh/4-tang-qua-tu-thien">Tặng quà từ thiện</a></li><li><a href="https://bodephatquoc.org/hinh-anh/3-hoi-thao-giao-duc">Hội thảo Giáo dục</a></li><li><a href="https://bodephatquoc.org/hinh-anh/5-am-nhac-trien-lam">Âm nhạc - Triển lãm</a></li><li><a href="https://bodephatquoc.org/hinh-anh/9-sinh-hoat-da-ngoai">Sinh hoạt dã ngoại</a></li><li><a href="https://bodephatquoc.org/hinh-anh/6-tat-nien-tet">Tất niên - Tết</a></li><li><a href="https://bodephatquoc.org/hinh-anh/8-thap-nen-tuong-nguyen">Thắp nến - Tưởng nguyện</a></li><li><a href="https://bodephatquoc.org/hinh-anh/12-tang-vien-bo-de-phat-quoc">Tăng viện Bồ Đề Phật Quốc</a></li><li><a href="https://bodephatquoc.org/hinh-anh/11-ni-vien-bo-de-phat-quoc">Ni viện Bồ Đề Phật Quốc</a></li>                                    </ul>
+                                </li>
+
+                                <!-- Thư Viện -->
+                                <li >
+                                    <a href="https://library.sakyauniversity.com" target="_blank" >Thư Viện </i></a>
+                                    
+                                </li>
+
+                                
+                            </ul><!--/ Nav ul end -->
+                        </div><!--/ Collapse end -->
+
+                    </div><!-- Site Navbar inner end -->
+                </nav><!--/ Navigation end -->
+
+                <div class="nav-search">
+                    <span id="search"><i class="fa fa-search"></i></span>
+                </div><!-- Search end -->
+                
+                <div class="search-block" style="display: none;">
+                    <input id="txtSearch" name="txtSearch" type="text" class="form-control" placeholder="Type what you want and enter" onkeypress="txtsearch(event)">
+                    <span class="search-close">&times;</span>
+                </div><!-- Site search end -->
+
+            </div><!--/ Row end -->
+        </div><!--/ Container end -->
+
+    </div><!-- Menu wrapper end -->
+
+    <div class="gap-40"></div>    
+
+
+    <section class="featured-post-area no-padding">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-12 pad-r"> 
+
+                    <div style="background-color: #000000;">
+                        <div style="color: #fff; font-size: 20px; line-height: 26px; font-weight: 700; font-family: 'Arimo', sans-serif; padding-left: 10px; padding-top: 10px;">SBU TV 57-15</div>
+                        <div style="width:100%; height: 353px; padding: 0px 10px;">
+                            <video autoplay autoplay="true" id="bdpq-video" class="video-js vjs-big-play-centered" controls preload="true" width="100%" height="100%" data-title="SBU TV 57-15" poster="https://bodephatquoc.org/templates/home/version5/images/SBU-TV--57-15.jpg" style="width: 100%; height: 100%; padding: 0px; margin: 0px;">
+                                <source src="https://live.bodephatquoc.org/bdpq/kenh1/playlist.m3u8" type="application/x-mpegURL">
+                            </video>
+                            <script src="https://vjs.zencdn.net/7.20.1/video.min.js"></script>
+    			            <!--script src="livevideo/videojs-titleoverlay.js"></script-->
+                            <script type="text/javascript"> 
+                                var player = videojs('bdpq-video', {autoplay: true}); 
+                                /*var options = {
+                                    title: 'BỒ ĐỀ PHẬT QUỐC TV- 57.15',
+                                    floatPosition: 'left',
+                                    margin: '0px',
+                                    fontSize: '2.5em', 
+                                    debug: false, 
+                                };
+                                player.titleoverlay(options);*/
+                            </script>	
+                        </div>
+                    </div>
+
+				</div><!-- Col 7 end -->
+
+				
+
+				<div class="col-lg-5 col-md-12 pad-l">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="post-overaly-style contentBot hot-post-top clearfix" >
+
+                            <div class="post-thumb">
+                                        <a href="https://bodephatquoc.org/video/10648-du-gia-bo-tat-gioi-bai-7"><img class="img-fluid" src="https://i.ytimg.com/vi/XzBcC_0fSPI/mqdefault.jpg" alt="" /></a>
+                                    </div>
+                                    <div class="post-content">
+                                        
+                                        <h2 class="post-title title-large">
+                                            <a href="https://bodephatquoc.org/video/10648-du-gia-bo-tat-gioi-bai-7">Lớp Sơ Trung Đẳng</a>
+                                        </h2>
+                                        
+                                    </div>                                
+                            </div><!-- Post Overaly end -->
+                        </div><!-- Col end -->
+
+                        <div class="col-md-6 pad-r-small" >
+                            <div class="post-overaly-style contentBot hot-post-top clearfix">
+                            <div class="post-thumb">
+                                        <a href="https://bodephatquoc.org/video/10649-luan-thanh-duy-thuc-bai-25"><img class="img-fluid" src="https://i.ytimg.com/vi/N2qW5LRlDdk/mqdefault.jpg" alt="" /></a>
+                                    </div>
+                                    <div class="post-content">
+                                        
+                                        <h2 class="post-title title-medium" style="min-height: 0px !important;margin-bottom: 0px;">
+                                            <a href="https://bodephatquoc.org/video/10649-luan-thanh-duy-thuc-bai-25">Lớp Cao Đẳng</a>
+                                        </h2>
+                                    </div>                                
+                            </div><!-- Post Overaly end -->
+                        </div><!-- Col end -->
+
+                        <div class="col-md-6 pad-l-small" >
+                            <div class="post-overaly-style contentBot hot-post-top clearfix">
+                            <div class="post-thumb">
+                                        <a href="https://bodephatquoc.org/video/10633-vi-dieu-phap-bai-33"><img class="img-fluid" src="https://i.ytimg.com/vi/ca3GBwLVxls/mqdefault.jpg" alt="" /></a>
+                                    </div>
+                                    <div class="post-content">
+                                        
+                                        <h2 class="post-title title-medium" style="min-height: 0px !important;margin-bottom: 0px;">
+                                            <a target="" href="https://bodephatquoc.org/video/10633-vi-dieu-phap-bai-33">Lớp A Tỳ Đàm</a>
+                                        </h2>
+                                    </div>                                
+                            </div><!-- Post Overaly end -->
+                        </div><!-- Col end -->
+                    </div>
+                </div><!-- Col 5 end -->
+
+			</div><!-- Row end -->
+		</div><!-- Container end -->
+	</section><!-- Trending post end -->
+
+    <section class="block-wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-12">
+                    <div class="latest-news block color-red">
+                        <h3 class="block-title"><span>VIDEOS MỚI</span></h3>
+                        <div id="latest-news-slide" class="owl-carousel owl-theme latest-news-slide">
+                            <div class="item">
+                                            <ul class="list-post">
+                                                <li class="clearfix">
+                                                    <div class="post-block-style clearfix">
+                                                        <div class="post-thumb">
+                                                            <a href="https://bodephatquoc.org/video/10647-kinh-trung-bo-toat-yeu-bai-13"><img class="img-fluid" src="https://i.ytimg.com/vi/S_wYNQ_Mqcg/mqdefault.jpg" alt="" /></a>
+                                                        </div>
+                                                        
+                                                        <div class="post-content">
+                                                            <h2 class="post-title title-medium">
+                                                                <a href="https://bodephatquoc.org/video/10647-kinh-trung-bo-toat-yeu-bai-13">Kinh Trung Bộ Toát Yếu- Bài 13</a>
+                                                            </h2>
+                                                            <div class="post-meta">
+                                                                
+                                                                <span class="post-date">13/03/2026</span>
+                                                            </div>
+                                                        </div><!-- Post content end -->
+                                                    </div><!-- Post Block style end -->
+                                                </li><!-- Li end -->
+
+                                                <div class="gap-30"></div><li class="clearfix">
+                                                    <div class="post-block-style clearfix">
+                                                        <div class="post-thumb">
+                                                            <a href="https://bodephatquoc.org/video/10646-kinh-lang-gia-yeu-luoc-bai-21"><img class="img-fluid" src="https://i.ytimg.com/vi/-QN8mlyD7KM/mqdefault.jpg" alt="" /></a>
+                                                        </div>
+                                                        
+                                                        <div class="post-content">
+                                                            <h2 class="post-title title-medium">
+                                                                <a href="https://bodephatquoc.org/video/10646-kinh-lang-gia-yeu-luoc-bai-21">Kinh Lăng Già Yếu Lược - Bài 21</a>
+                                                            </h2>
+                                                            <div class="post-meta">
+                                                                
+                                                                <span class="post-date">13/03/2026</span>
+                                                            </div>
+                                                        </div><!-- Post content end -->
+                                                    </div><!-- Post Block style end -->
+                                                </li><!-- Li end -->
+                                            </ul><!-- List post 1 end -->
+
+                                        </div><!-- Item 1 end -->
+                                    <div class="item">
+                                            <ul class="list-post">
+                                                <li class="clearfix">
+                                                    <div class="post-block-style clearfix">
+                                                        <div class="post-thumb">
+                                                            <a href="https://bodephatquoc.org/video/10645-kinh-tuong-ung-bo-bai-32"><img class="img-fluid" src="https://i.ytimg.com/vi/ivpDVIjNwyI/mqdefault.jpg" alt="" /></a>
+                                                        </div>
+                                                        
+                                                        <div class="post-content">
+                                                            <h2 class="post-title title-medium">
+                                                                <a href="https://bodephatquoc.org/video/10645-kinh-tuong-ung-bo-bai-32">Kinh Tương Ưng Bộ- Bài 32</a>
+                                                            </h2>
+                                                            <div class="post-meta">
+                                                                
+                                                                <span class="post-date">13/03/2026</span>
+                                                            </div>
+                                                        </div><!-- Post content end -->
+                                                    </div><!-- Post Block style end -->
+                                                </li><!-- Li end -->
+
+                                                <div class="gap-30"></div><li class="clearfix">
+                                                    <div class="post-block-style clearfix">
+                                                        <div class="post-thumb">
+                                                            <a href="https://bodephatquoc.org/video/10644-phat-giao-mahayana-bai-36"><img class="img-fluid" src="https://i.ytimg.com/vi/dT2xBLeaLCg/mqdefault.jpg" alt="" /></a>
+                                                        </div>
+                                                        
+                                                        <div class="post-content">
+                                                            <h2 class="post-title title-medium">
+                                                                <a href="https://bodephatquoc.org/video/10644-phat-giao-mahayana-bai-36">Phật giáo Mahayana - Bài 36</a>
+                                                            </h2>
+                                                            <div class="post-meta">
+                                                                
+                                                                <span class="post-date">13/03/2026</span>
+                                                            </div>
+                                                        </div><!-- Post content end -->
+                                                    </div><!-- Post Block style end -->
+                                                </li><!-- Li end -->
+                                            </ul><!-- List post 1 end -->
+
+                                        </div><!-- Item 1 end -->
+                                    <div class="item">
+                                            <ul class="list-post">
+                                                <li class="clearfix">
+                                                    <div class="post-block-style clearfix">
+                                                        <div class="post-thumb">
+                                                            <a href="https://bodephatquoc.org/video/10643-kinh-phap-cu-bai-31"><img class="img-fluid" src="https://i.ytimg.com/vi/2EU_bxsx-OU/mqdefault.jpg" alt="" /></a>
+                                                        </div>
+                                                        
+                                                        <div class="post-content">
+                                                            <h2 class="post-title title-medium">
+                                                                <a href="https://bodephatquoc.org/video/10643-kinh-phap-cu-bai-31">Kinh Pháp Cú - Bài 31</a>
+                                                            </h2>
+                                                            <div class="post-meta">
+                                                                
+                                                                <span class="post-date">13/03/2026</span>
+                                                            </div>
+                                                        </div><!-- Post content end -->
+                                                    </div><!-- Post Block style end -->
+                                                </li><!-- Li end -->
+
+                                                <div class="gap-30"></div><li class="clearfix">
+                                                    <div class="post-block-style clearfix">
+                                                        <div class="post-thumb">
+                                                            <a href="https://bodephatquoc.org/video/10642-luoc-su-phat-giao-theravada-bai-34"><img class="img-fluid" src="https://i.ytimg.com/vi/S4rdh6cIdpQ/mqdefault.jpg" alt="" /></a>
+                                                        </div>
+                                                        
+                                                        <div class="post-content">
+                                                            <h2 class="post-title title-medium">
+                                                                <a href="https://bodephatquoc.org/video/10642-luoc-su-phat-giao-theravada-bai-34">Lược Sử Phật Giáo Theravada - Bài 34</a>
+                                                            </h2>
+                                                            <div class="post-meta">
+                                                                
+                                                                <span class="post-date">13/03/2026</span>
+                                                            </div>
+                                                        </div><!-- Post content end -->
+                                                    </div><!-- Post Block style end -->
+                                                </li><!-- Li end -->
+                                            </ul><!-- List post 1 end -->
+
+                                        </div><!-- Item 1 end -->
+                                    
+                        </div><!-- Latest News owl carousel end-->
+                    </div><!--- Latest news end -->
+
+                    <div class="gap-50"></div>
+
+                    <!--- Featured Tab startet -->
+                    <div class="featured-tab color-blue">
+                        <h3 class="block-title"><span>Thông Tin Mới</span></h3>
+                        <ul class="nav nav-tabs">
+                            <li class="nav-item">
+                                <a class="nav-link animated fadeIn active" href="#tab_a" data-toggle="tab">
+                                    <span class="tab-head">
+                                        <span class="tab-text-title">Thông báo</span>                 
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link animated fadeIn" href="#tab_b" data-toggle="tab">
+                                    <span class="tab-head">
+                                        <span class="tab-text-title">Tài Liệu</span>                   
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link animated fadeIn" href="#tab_c" data-toggle="tab">
+                                    <span class="tab-head">
+                                        <span class="tab-text-title">Thời Khóa Biểu</span>                    
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+
+                        <div class="tab-content">
+                          <div class="tab-pane active animated fadeInRight" id="tab_a">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="post-block-style clearfix">
+                                                <div class="post-thumb">
+                                                    <a href="https://bodephatquoc.org/tin-tuc/thu-moi-va-chuong-trinh-phap-hoi-duoc-su-2026-68">
+                                                        <img  class="img-fluid" src="https://bodephatquoc.org/files/news/202602/thumbnail/600x400/1771988254-thu-moi-va-chuong-trinh-phap-hoi-duoc-su-2026.jpg" alt="" />
+                                                    </a>
+                                                </div>
+                                                
+                                                <div class="post-content">
+                                                    <h2 class="post-title">
+                                                        <a href="https://bodephatquoc.org/tin-tuc/thu-moi-va-chuong-trinh-phap-hoi-duoc-su-2026-68">Thư mời và Chương trình Pháp hội Dược Sư 2026</a>
+                                                    </h2>
+                                                    <div class="post-meta">
+                                                        
+                                                        <span class="post-date">25/02/2026</span>
+                                                    </div>
+                                                    <p>Nhân dịp đầu Xuân Bính Ngọ, Bồ Đề Phật Quốc có tổ chức Pháp hội Dược Sư 2026 để cầu đảo bảo an, tiêu trừ bịnh tật. Thay mặt Ban tổ chức, chúng tôi ...</p>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Post Block style end -->                                    
+                                </div><!-- Col end -->
+
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="list-post-block">
+                                            <ul class="list-post">
+                                                <li class="clearfix">
+                                                                <div class="post-block-style post-float clearfix">
+                                                                    <div class="post-thumb">
+                                                                        <a href="https://bodephatquoc.org/tin-tuc/dien-van-khai-mac-hoi-cho-tet-xuan-binh-ngo-2026-67">
+                                                                            <img class="img-fluid" src="https://bodephatquoc.org/files/news/202602/thumbnail/600x400/1771105634-dien-van-khai-mac-hoi-cho-tet-xuan-binh-ngo-2026.jpg" alt="" />
+                                                                        </a>
+                                                                    </div><!-- Post thumb end -->
+
+                                                                    <div class="post-content">
+                                                                        <h2 class="post-title title-small">
+                                                                            <a href="https://bodephatquoc.org/tin-tuc/dien-van-khai-mac-hoi-cho-tet-xuan-binh-ngo-2026-67">Diễn văn Khai mạc Hội chơ Tết - Xuân Bính Ngọ 2026</a>
+                                                                        </h2>
+                                                                        <div class="post-meta">
+                                                                            <span class="post-date">15/02/2026</span>
+                                                                        </div>
+                                                                    </div><!-- Post content end -->
+                                                                </div><!-- Post block style end -->
+                                                            </li><!-- Li 1 end --><li class="clearfix">
+                                                                <div class="post-block-style post-float clearfix">
+                                                                    <div class="post-thumb">
+                                                                        <a href="https://bodephatquoc.org/tin-tuc/chuong-trinh-hoi-cho-tet-xuan-binh-ngo-2026-66">
+                                                                            <img class="img-fluid" src="https://bodephatquoc.org/files/news/202602/thumbnail/600x400/1771105110-chuong-trinh-hoi-cho-tet-xuan-binh-ngo-2026.jpg" alt="" />
+                                                                        </a>
+                                                                    </div><!-- Post thumb end -->
+
+                                                                    <div class="post-content">
+                                                                        <h2 class="post-title title-small">
+                                                                            <a href="https://bodephatquoc.org/tin-tuc/chuong-trinh-hoi-cho-tet-xuan-binh-ngo-2026-66">Chương trình Hội chợ Tết – Xuân Bính Ngọ 2026</a>
+                                                                        </h2>
+                                                                        <div class="post-meta">
+                                                                            <span class="post-date">15/02/2026</span>
+                                                                        </div>
+                                                                    </div><!-- Post content end -->
+                                                                </div><!-- Post block style end -->
+                                                            </li><!-- Li 1 end --><li class="clearfix">
+                                                                <div class="post-block-style post-float clearfix">
+                                                                    <div class="post-thumb">
+                                                                        <a href="https://bodephatquoc.org/tin-tuc/thu-chuc-tet-xuan-binh-ngo-2026-cua-dai-hoc-sakya-buddha-65">
+                                                                            <img class="img-fluid" src="https://bodephatquoc.org/files/news/202602/thumbnail/600x400/1771102727-thu-chuc-tet-xuan-binh-ngo-2026-cua-dai-hoc-sakya-buddha.jpg" alt="" />
+                                                                        </a>
+                                                                    </div><!-- Post thumb end -->
+
+                                                                    <div class="post-content">
+                                                                        <h2 class="post-title title-small">
+                                                                            <a href="https://bodephatquoc.org/tin-tuc/thu-chuc-tet-xuan-binh-ngo-2026-cua-dai-hoc-sakya-buddha-65">Thư chúc Tết - Xuân Bính Ngọ 2026 của Đại học Sakya Buddha</a>
+                                                                        </h2>
+                                                                        <div class="post-meta">
+                                                                            <span class="post-date">15/02/2026</span>
+                                                                        </div>
+                                                                    </div><!-- Post content end -->
+                                                                </div><!-- Post block style end -->
+                                                            </li><!-- Li 1 end --><li class="clearfix">
+                                                                <div class="post-block-style post-float clearfix">
+                                                                    <div class="post-thumb">
+                                                                        <a href="https://bodephatquoc.org/tin-tuc/thu-moi-tham-du-buoi-dinh-huong-nien-hoc-2025-2028-dai-hoc-sakya-buddha-64">
+                                                                            <img class="img-fluid" src="https://bodephatquoc.org/files/news/202508/thumbnail/600x400/1755549557-thu-moi-tham-du-buoi-dinh-huong-nien-hoc-2025-2028-dai-hoc-sakya-buddha.png" alt="" />
+                                                                        </a>
+                                                                    </div><!-- Post thumb end -->
+
+                                                                    <div class="post-content">
+                                                                        <h2 class="post-title title-small">
+                                                                            <a href="https://bodephatquoc.org/tin-tuc/thu-moi-tham-du-buoi-dinh-huong-nien-hoc-2025-2028-dai-hoc-sakya-buddha-64">Thư mời tham dự buổi Định hướng niên học 2025-2028 - Đại họ...</a>
+                                                                        </h2>
+                                                                        <div class="post-meta">
+                                                                            <span class="post-date">19/08/2025</span>
+                                                                        </div>
+                                                                    </div><!-- Post content end -->
+                                                                </div><!-- Post block style end -->
+                                                            </li><!-- Li 1 end -->                                                
+
+                                                
+                                            </ul><!-- List post end -->
+                                        </div><!-- List post block end -->
+                                </div><!-- List post Col end -->
+                            </div><!-- Tab pane Row 1 end -->
+                          </div><!-- Tab pane 1 end -->
+
+                        <div class="tab-pane animated fadeInRight" id="tab_b">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="post-block-style clearfix">
+                                                    <div class="post-thumb">
+                                                        <a href="https://bodephatquoc.org/tin-tuc/mon-van-hoa-giao-tiep-cua-giao-su-dr-tenzin-dorjee-bai-1-9-21-2023--42">
+                                                            <img class="img-fluid" src="https://bodephatquoc.org/files/news/202309/thumbnail/600x400/1695427185-mon-van-hoa-giao-tiep-cua-giao-su-dr-tenzin-dorjee-bai-1-9-21-2023-thu-muc-chia-se-bai-hoc-da.jpg" alt="" />
+                                                        </a>
+                                                    </div>
+                                                    
+                                                    <div class="post-content">
+                                                        <h2 class="post-title">
+                                                            <a href="https://bodephatquoc.org/tin-tuc/mon-van-hoa-giao-tiep-cua-giao-su-dr-tenzin-dorjee-bai-1-9-21-2023--42">Môn Văn Hóa Giao Tiếp của Giáo sư  Dr. Tenzin Dorjee - Bài 1 (9/21/2023).</a>
+                                                        </h2>
+                                                        <div class="post-meta">
+                                                            
+                                                            <span class="post-date">23/09/2023</span>
+                                                        </div>
+                                                        <p>Môn Văn Hóa Giao Tiếp của Giáo sư  Dr. Tenzin Dorjee - Bài 1 (9/21/2023). Thư mục chia sẻ bài học dành cho các Học viên dự bị Lớp Master Triết Học Phật Giá...</p>
+                                                    </div><!-- Post content end -->
+                                                </div><!-- Post Block style end -->                                    
+                                </div><!-- Col end -->
+
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="list-post-block">
+                                            <ul class="list-post">
+                                                <li class="clearfix">
+                                                                <div class="post-block-style post-float clearfix">
+                                                                    <div class="post-thumb">
+                                                                        <a href="https://bodephatquoc.org/tin-tuc/lop-tieng-anh-cua-giang-vien-catherine-kelley-bai-1-9-19-2023--41">
+                                                                            <img class="img-fluid" src="https://bodephatquoc.org/files/news/202309/thumbnail/600x400/1695228524-lop-tieng-anh-cua-giang-vien-catherine-kelley-bai-1-9-19-2023-.jpg" alt="" />
+                                                                        </a>
+                                                                    </div><!-- Post thumb end -->
+
+                                                                    <div class="post-content">
+                                                                        <h2 class="post-title title-small">
+                                                                            <a href="https://bodephatquoc.org/tin-tuc/lop-tieng-anh-cua-giang-vien-catherine-kelley-bai-1-9-19-2023--41">Lớp tiếng Anh của Giảng viên Catherine Kelley - Bài 1 (9/19/2023)</a>
+                                                                        </h2>
+                                                                        <div class="post-meta">
+                                                                            <span class="post-date">20/09/2023</span>
+                                                                        </div>
+                                                                    </div><!-- Post content end -->
+                                                                </div><!-- Post block style end -->
+                                                            </li><!-- Li 1 end --><li class="clearfix">
+                                                                <div class="post-block-style post-float clearfix">
+                                                                    <div class="post-thumb">
+                                                                        <a href="https://bodephatquoc.org/tin-tuc/du-thao-khoa-hoc-cua-giao-su-dr-tenzin-dorjee-40">
+                                                                            <img class="img-fluid" src="https://bodephatquoc.org/files/news/202309/thumbnail/600x400/1695225274-du-thao-khoa-hoc-cua-giao-su-dr-tenzin-dorjee.jpg" alt="" />
+                                                                        </a>
+                                                                    </div><!-- Post thumb end -->
+
+                                                                    <div class="post-content">
+                                                                        <h2 class="post-title title-small">
+                                                                            <a href="https://bodephatquoc.org/tin-tuc/du-thao-khoa-hoc-cua-giao-su-dr-tenzin-dorjee-40">Dự thảo khóa học của Giáo sư Dr. Tenzin Dorjee</a>
+                                                                        </h2>
+                                                                        <div class="post-meta">
+                                                                            <span class="post-date">20/09/2023</span>
+                                                                        </div>
+                                                                    </div><!-- Post content end -->
+                                                                </div><!-- Post block style end -->
+                                                            </li><!-- Li 1 end -->                                            
+                                            </ul><!-- List post end -->
+                                        </div><!-- List post block end -->
+                                </div><!-- List post Col end -->
+                            </div><!-- Tab pane Row 2 end -->
+                        </div><!-- Tab pane 2 end -->
+
+                        <div class="tab-pane animated fadeInRight" id="tab_c">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="post-block-style clearfix">
+                                                    <div class="post-thumb">
+                                                        <a href="https://bodephatquoc.org/tin-tuc/-">
+                                                            <img class="img-fluid" src="https://bodephatquoc.org/wp-content/uploads/" alt="" />
+                                                        </a>
+                                                    </div>
+                                                    
+                                                    <div class="post-content">
+                                                        <h2 class="post-title">
+                                                            <a href="https://bodephatquoc.org/tin-tuc/-"></a>
+                                                        </h2>
+                                                        <div class="post-meta">
+                                                            
+                                                            <span class="post-date">01/01/1970</span>
+                                                        </div>
+                                                        <p></p>
+                                                    </div><!-- Post content end -->
+                                                </div><!-- Post Block style end -->                                    
+                                </div><!-- Col end -->
+
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="list-post-block">
+                                            <ul class="list-post">
+                                                                                            
+                                            </ul><!-- List post end -->
+                                        </div><!-- List post block end -->
+                                </div><!-- List post Col end -->
+                            </div><!-- Tab pane Row 2 end -->
+                        </div><!-- Tab pane 2 end -->
+
+                               
+                        </div><!-- tab content -->
+                    </div><!-- Technology Tab end -->
+
+                    <div class="gap-40"></div>
+
+                    <div class="block color-orange">
+                        <h3 class="block-title"><span>PHÁP NHẠC ÂM</span></h3>
+
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6">
+                                <div class="post-overaly-style clearfix">
+                                                <div class="post-thumb">
+                                                    <a href="https://bodephatquoc.org/video/7635-tan-le-tay-phuong-loi-thich-huyen-chau-nhac-phuong-nguyen-trinh-bay-ca-si-quynh-vy">
+                                                        <img class="img-fluid" src="https://i.ytimg.com/vi/hIR5QoO78Zc/mqdefault.jpg" alt="" />
+                                                    </a>
+                                                </div>
+                                                
+                                                <div class="post-content">
+                                                    
+                                                    <h2 class="post-title">
+                                                        <a href="https://bodephatquoc.org/video/7635-tan-le-tay-phuong-loi-thich-huyen-chau-nhac-phuong-nguyen-trinh-bay-ca-si-quynh-vy">Tán Lễ Tây Phương - Lời: Thích Huyền Châu - Nhạc: Phương Nguyễn - Trình bày: Ca sĩ Quỳnh Vy</a>
+                                                    </h2>
+                                                    <div class="post-meta">
+                                                        <span class="post-date">20/11/2023</span>
+                                                    </div>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Post Overaly Article end -->                                
+
+                                <div class="list-post-block">
+                                    <ul class="list-post">
+                                        <li class="clearfix">
+                                                        <div class="post-block-style post-float clearfix">
+                                                            <div class="post-thumb">
+                                                                <a href="https://bodephatquoc.org/video/7385-dai-nhac-hoi-trai-tim-bac-dai-giac-phan-6-2023-">
+                                                                    <img class="img-fluid" src="https://i.ytimg.com/vi/oZQZOu7OhqI/mqdefault.jpg" alt="" />
+                                                                </a>
+                                                                
+                                                            </div><!-- Post thumb end -->
+
+                                                            <div class="post-content">
+                                                                <h2 class="post-title title-small">
+                                                                    <a href="https://bodephatquoc.org/video/7385-dai-nhac-hoi-trai-tim-bac-dai-giac-phan-6-2023-">Đại Nhạc Hội: Trái Tim Bậc Đại Giác (Phần 6) (2023)</a>
+                                                                </h2>
+                                                                <div class="post-meta">
+                                                                    <span class="post-date">29/09/2023</span>
+                                                                </div>
+                                                            </div><!-- Post content end -->
+                                                        </div><!-- Post block style end -->
+                                                    </li><!-- Li 1 end --><li class="clearfix">
+                                                        <div class="post-block-style post-float clearfix">
+                                                            <div class="post-thumb">
+                                                                <a href="https://bodephatquoc.org/video/7378-dai-nhac-hoi-trai-tim-bac-dai-giac-phan-5-2023-">
+                                                                    <img class="img-fluid" src="https://i.ytimg.com/vi/BOK9Z4m8wHU/mqdefault.jpg" alt="" />
+                                                                </a>
+                                                                
+                                                            </div><!-- Post thumb end -->
+
+                                                            <div class="post-content">
+                                                                <h2 class="post-title title-small">
+                                                                    <a href="https://bodephatquoc.org/video/7378-dai-nhac-hoi-trai-tim-bac-dai-giac-phan-5-2023-">Đại Nhạc Hội: Trái Tim Bậc Đại Giác (Phần 5) (2023)</a>
+                                                                </h2>
+                                                                <div class="post-meta">
+                                                                    <span class="post-date">24/09/2023</span>
+                                                                </div>
+                                                            </div><!-- Post content end -->
+                                                        </div><!-- Post block style end -->
+                                                    </li><!-- Li 1 end --><li class="clearfix">
+                                                        <div class="post-block-style post-float clearfix">
+                                                            <div class="post-thumb">
+                                                                <a href="https://bodephatquoc.org/video/7360-dai-nhac-hoi-trai-tim-bac-dai-giac-phan-4-2023-">
+                                                                    <img class="img-fluid" src="https://i.ytimg.com/vi/2u9Q7HINkDg/mqdefault.jpg" alt="" />
+                                                                </a>
+                                                                
+                                                            </div><!-- Post thumb end -->
+
+                                                            <div class="post-content">
+                                                                <h2 class="post-title title-small">
+                                                                    <a href="https://bodephatquoc.org/video/7360-dai-nhac-hoi-trai-tim-bac-dai-giac-phan-4-2023-">Đại Nhạc Hội: Trái Tim Bậc Đại Giác (Phần 4) (2023)</a>
+                                                                </h2>
+                                                                <div class="post-meta">
+                                                                    <span class="post-date">24/09/2023</span>
+                                                                </div>
+                                                            </div><!-- Post content end -->
+                                                        </div><!-- Post block style end -->
+                                                    </li><!-- Li 1 end --><li class="clearfix">
+                                                        <div class="post-block-style post-float clearfix">
+                                                            <div class="post-thumb">
+                                                                <a href="https://bodephatquoc.org/video/7353-dai-nhac-hoi-trai-tim-bac-dai-giac-phan-3-2023">
+                                                                    <img class="img-fluid" src="https://i.ytimg.com/vi/Yv3U20nIWyU/mqdefault.jpg" alt="" />
+                                                                </a>
+                                                                
+                                                            </div><!-- Post thumb end -->
+
+                                                            <div class="post-content">
+                                                                <h2 class="post-title title-small">
+                                                                    <a href="https://bodephatquoc.org/video/7353-dai-nhac-hoi-trai-tim-bac-dai-giac-phan-3-2023">Đại Nhạc Hội: Trái Tim Bậc Đại Giác (Phần 3) - 2023</a>
+                                                                </h2>
+                                                                <div class="post-meta">
+                                                                    <span class="post-date">19/09/2023</span>
+                                                                </div>
+                                                            </div><!-- Post content end -->
+                                                        </div><!-- Post block style end -->
+                                                    </li><!-- Li 1 end -->                                        
+
+                                        
+
+                                    </ul><!-- List post end -->
+                                </div><!-- List post block end -->
+                            </div><!-- Col 1 end -->
+
+                            <div class="col-lg-6 col-md-6">
+                                <div class="post-overaly-style last clearfix">
+                                                <div class="post-thumb">
+                                                    <a href="https://bodephatquoc.org/phap-nhac-am-cd/235-phat-su-ca">
+                                                        <img class="img-fluid" src="https://i.ytimg.com/vi/HIsdAWRCNyg/mqdefault.jpg" alt="" />
+                                                    </a>
+                                                </div>
+                                                
+                                                <div class="post-content">
+                                                    
+                                                    <h2 class="post-title">
+                                                        <a href="https://bodephatquoc.org/phap-nhac-am-cd/235-phat-su-ca">Phật Sử Ca</a>
+                                                    </h2>
+                                                    <div class="post-meta">
+                                                        <span class="post-date">01/08/2022</span>
+                                                    </div>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Post Overaly Article end -->                                
+                                <div class="list-post-block">
+                                    <ul class="list-post">
+                                        <ul class="list-post">
+                                        <li class="clearfix">
+                                                            <div class="post-block-style post-float clearfix">
+                                                                <div class="post-thumb">
+                                                                    <a href="https://bodephatquoc.org/phap-nhac-am-cd/236-gia-tai-bac-thanh">
+                                                                        <img class="img-fluid" src="https://i.ytimg.com/vi/HIsdAWRCNyg/mqdefault.jpg" alt="" />
+                                                                    </a>
+                                                                    
+                                                                </div><!-- Post thumb end -->
+
+                                                                <div class="post-content">
+                                                                    <h2 class="post-title title-small">
+                                                                        <a href="https://bodephatquoc.org/phap-nhac-am-cd/236-gia-tai-bac-thanh">Gia tài Bậc thánh</a>
+                                                                    </h2>
+                                                                    <div class="post-meta">
+                                                                        <span class="post-date">01/08/2022</span>
+                                                                    </div>
+                                                                </div><!-- Post content end -->
+                                                            </div><!-- Post block style end -->
+                                                        </li><!-- Li 2 end --><li class="clearfix">
+                                                            <div class="post-block-style post-float clearfix">
+                                                                <div class="post-thumb">
+                                                                    <a href="https://bodephatquoc.org/phap-nhac-am-cd/237-thuyen-ve-ben-mong">
+                                                                        <img class="img-fluid" src="https://i.ytimg.com/vi/HIsdAWRCNyg/mqdefault.jpg" alt="" />
+                                                                    </a>
+                                                                    
+                                                                </div><!-- Post thumb end -->
+
+                                                                <div class="post-content">
+                                                                    <h2 class="post-title title-small">
+                                                                        <a href="https://bodephatquoc.org/phap-nhac-am-cd/237-thuyen-ve-ben-mong">Thuyền về Bến mộng</a>
+                                                                    </h2>
+                                                                    <div class="post-meta">
+                                                                        <span class="post-date">01/08/2022</span>
+                                                                    </div>
+                                                                </div><!-- Post content end -->
+                                                            </div><!-- Post block style end -->
+                                                        </li><!-- Li 2 end --><li class="clearfix">
+                                                            <div class="post-block-style post-float clearfix">
+                                                                <div class="post-thumb">
+                                                                    <a href="https://bodephatquoc.org/phap-nhac-am-cd/238-hoa-khai-kien-phat">
+                                                                        <img class="img-fluid" src="https://i.ytimg.com/vi/HIsdAWRCNyg/mqdefault.jpg" alt="" />
+                                                                    </a>
+                                                                    
+                                                                </div><!-- Post thumb end -->
+
+                                                                <div class="post-content">
+                                                                    <h2 class="post-title title-small">
+                                                                        <a href="https://bodephatquoc.org/phap-nhac-am-cd/238-hoa-khai-kien-phat">Hoa Khai Kiến Phật</a>
+                                                                    </h2>
+                                                                    <div class="post-meta">
+                                                                        <span class="post-date">01/08/2022</span>
+                                                                    </div>
+                                                                </div><!-- Post content end -->
+                                                            </div><!-- Post block style end -->
+                                                        </li><!-- Li 2 end --><li class="clearfix">
+                                                            <div class="post-block-style post-float clearfix">
+                                                                <div class="post-thumb">
+                                                                    <a href="https://bodephatquoc.org/phap-nhac-am-cd/239-dieu-hanh-quan-am">
+                                                                        <img class="img-fluid" src="https://i.ytimg.com/vi/HIsdAWRCNyg/mqdefault.jpg" alt="" />
+                                                                    </a>
+                                                                    
+                                                                </div><!-- Post thumb end -->
+
+                                                                <div class="post-content">
+                                                                    <h2 class="post-title title-small">
+                                                                        <a href="https://bodephatquoc.org/phap-nhac-am-cd/239-dieu-hanh-quan-am">Diệu Hạnh Quán Âm</a>
+                                                                    </h2>
+                                                                    <div class="post-meta">
+                                                                        <span class="post-date">01/08/2022</span>
+                                                                    </div>
+                                                                </div><!-- Post content end -->
+                                                            </div><!-- Post block style end -->
+                                                        </li><!-- Li 2 end -->
+                                    </ul><!-- List post end -->
+                                </div><!-- List post block end -->
+                            </div><!-- Col 2 end -->
+                        </div><!-- Row end -->
+                    </div><!-- Block Lifestyle end -->
+
+
+                </div><!-- Content Col end -->
+
+                <div class="col-lg-4 col-md-12">
+                    <div class="sidebar sidebar-right">
+
+                        <div class="widget color-default">
+                            <h3 class="block-title"><span>Truyện Thiếu Nhi Anh - Việt</span></h3>
+                            <div class="post-overaly-style clearfix">
+                                        <div class="post-thumb">
+                                            <a href="https://bodephatquoc.org/video/120-su-tich-da-ba-rau-the-tale-of-the-sad-woman-stone">
+                                                <img class="img-fluid" src="https://i.ytimg.com/vi/zbNTGucsIac/mqdefault.jpg" alt="" />
+                                            </a>
+                                        </div>
+                                        
+                                        <div class="post-content">
+                                            
+                                            <h2 class="post-title">
+                                                <a href="https://bodephatquoc.org/video/120-su-tich-da-ba-rau-the-tale-of-the-sad-woman-stone">Sự tích Đá Bà Rầu - The Tale Of The Sad Woman Stone</a>
+                                            </h2>
+                                            <div class="post-meta">
+                                                <span class="post-date">22/01/2021</span>
+                                            </div>
+                                        </div><!-- Post content end -->
+                                    </div><!-- Post Overaly Article end -->                            
+
+
+                            <div class="list-post-block">
+                                <ul class="list-post">
+                                    <li class="clearfix">
+                                                        <div class="post-block-style post-float clearfix">
+                                                            <div class="post-thumb">
+                                                                <a href="https://bodephatquoc.org/video/119-ton-gia-la-hau-la-venerable-rahula">
+                                                                    <img class="img-fluid" src="https://i.ytimg.com/vi/B51xza1HbEE/mqdefault.jpg" alt="" />
+                                                                </a>
+                                                                <!--a class="post-cat" href="https://bodephatquoc.org/video/119-ton-gia-la-hau-la-venerable-rahula">Gadgets</a-->
+                                                            </div><!-- Post thumb end -->
+
+                                                            <div class="post-content">
+                                                                <h2 class="post-title title-small">
+                                                                    <a href="https://bodephatquoc.org/video/119-ton-gia-la-hau-la-venerable-rahula">Tôn Giả La Hầu La - Venerable Rahula</a>
+                                                                </h2>
+                                                                <div class="post-meta">
+                                                                    <span class="post-date">22/01/2021</span>
+                                                                </div>
+                                                            </div><!-- Post content end -->
+                                                        </div><!-- Post block style end -->
+                                                    </li><!-- Li 1 end --><li class="clearfix">
+                                                        <div class="post-block-style post-float clearfix">
+                                                            <div class="post-thumb">
+                                                                <a href="https://bodephatquoc.org/video/118-ton-gia-a-nan-venerable-ananda">
+                                                                    <img class="img-fluid" src="https://i.ytimg.com/vi/Jg4o6hQ7se4/mqdefault.jpg" alt="" />
+                                                                </a>
+                                                                <!--a class="post-cat" href="https://bodephatquoc.org/video/118-ton-gia-a-nan-venerable-ananda">Gadgets</a-->
+                                                            </div><!-- Post thumb end -->
+
+                                                            <div class="post-content">
+                                                                <h2 class="post-title title-small">
+                                                                    <a href="https://bodephatquoc.org/video/118-ton-gia-a-nan-venerable-ananda">Tôn giả A Nan - Venerable Ananda</a>
+                                                                </h2>
+                                                                <div class="post-meta">
+                                                                    <span class="post-date">22/01/2021</span>
+                                                                </div>
+                                                            </div><!-- Post content end -->
+                                                        </div><!-- Post block style end -->
+                                                    </li><!-- Li 1 end --><li class="clearfix">
+                                                        <div class="post-block-style post-float clearfix">
+                                                            <div class="post-thumb">
+                                                                <a href="https://bodephatquoc.org/video/117-cua-thien-tra-dia-heaven-earth">
+                                                                    <img class="img-fluid" src="https://i.ytimg.com/vi/J7x4K7yPnA0/mqdefault.jpg" alt="" />
+                                                                </a>
+                                                                <!--a class="post-cat" href="https://bodephatquoc.org/video/117-cua-thien-tra-dia-heaven-earth">Gadgets</a-->
+                                                            </div><!-- Post thumb end -->
+
+                                                            <div class="post-content">
+                                                                <h2 class="post-title title-small">
+                                                                    <a href="https://bodephatquoc.org/video/117-cua-thien-tra-dia-heaven-earth">Của Thiên Trả Địa - Heaven & Earth</a>
+                                                                </h2>
+                                                                <div class="post-meta">
+                                                                    <span class="post-date">22/01/2021</span>
+                                                                </div>
+                                                            </div><!-- Post content end -->
+                                                        </div><!-- Post block style end -->
+                                                    </li><!-- Li 1 end --><li class="clearfix">
+                                                        <div class="post-block-style post-float clearfix">
+                                                            <div class="post-thumb">
+                                                                <a href="https://bodephatquoc.org/video/116-su-tich-ho-ba-be-the-ba-be-lake">
+                                                                    <img class="img-fluid" src="https://i.ytimg.com/vi/LbBgEeGSjfQ/mqdefault.jpg" alt="" />
+                                                                </a>
+                                                                <!--a class="post-cat" href="https://bodephatquoc.org/video/116-su-tich-ho-ba-be-the-ba-be-lake">Gadgets</a-->
+                                                            </div><!-- Post thumb end -->
+
+                                                            <div class="post-content">
+                                                                <h2 class="post-title title-small">
+                                                                    <a href="https://bodephatquoc.org/video/116-su-tich-ho-ba-be-the-ba-be-lake">Sự tích Hồ Ba Bể - The Ba Bể Lake</a>
+                                                                </h2>
+                                                                <div class="post-meta">
+                                                                    <span class="post-date">22/01/2021</span>
+                                                                </div>
+                                                            </div><!-- Post content end -->
+                                                        </div><!-- Post block style end -->
+                                                    </li><!-- Li 1 end -->
+                                </ul><!-- List post end -->
+                            </div><!-- List post block end -->
+
+                        </div><!-- Popular news widget end -->
+
+                        <!-- bài chỉ định -->
+                        <div class="widget text-center ">
+                            <div class="post-overaly-style text-center clearfix">
+                               
+                            <div class="post-thumb">
+                                              <a href="https://bodephatquoc.org/tin-tuc/thu-moi-phap-hoi-vu-lan-bao-hieu-nam-2022-28">
+                                                 <img class="img-fluid" src="https://bodephatquoc.org/files/news/202208/thumbnail/600x400/1660186615-thu-moi-phap-hoi-vu-lan-bao-hieu-nam-2022.gif" alt="" />
+                                              </a>
+                                           </div>
+
+                                           <div class="post-content">
+                                              
+                                              <h2 class="post-title">
+                                                 <a href="https://bodephatquoc.org/tin-tuc/thu-moi-phap-hoi-vu-lan-bao-hieu-nam-2022-28">Thư mời Pháp hội Vu lan - Báo hiếu năm 2022</a>
+                                              </h2>
+                                              
+                                           </div>                                
+                            </div><!-- Post Overaly Article 1 end -->
+                        </div><!-- Sidebar Ad end -->
+                        
+
+                        <div class="widget color-default m-bottom-0">
+                            <h3 class="block-title"><span>duyên lành cửa phật</span></h3>
+
+                            <div id="post-slide" class="owl-carousel owl-theme post-slide">
+                                <div class="item">
+                                    <div class="post-overaly-style text-center clearfix">
+                                                       <div class="post-thumb">
+                                                          <a href="https://bodephatquoc.org/video/7215-so-183-minh-tu-thanh-an-dinh">
+                                                             <img class="img-fluid" src="https://i.ytimg.com/vi/MrMFYAao00M/mqdefault.jpg" alt="" />
+                                                          </a>
+                                                       </div><!-- Post thumb end -->
+
+                                                       <div class="post-content">
+                                                          
+                                                          <h2 class="post-title">
+                                                             <a href="https://bodephatquoc.org/video/7215-so-183-minh-tu-thanh-an-dinh">Số 183: Minh Từ - Thánh An Định</a>
+                                                          </h2>
+                                                          <div class="post-meta">
+                                                             <span class="post-date">14/08/2023</span>
+                                                          </div>
+                                                       </div><!-- Post content end -->
+                                                    </div><!-- Post Overaly Article 1 end --><div class="post-overaly-style text-center clearfix">
+                                                       <div class="post-thumb">
+                                                          <a href="https://bodephatquoc.org/video/7133-so-182-hue-phuong-duyen-dieu-co">
+                                                             <img class="img-fluid" src="https://i.ytimg.com/vi/93vsY_745xk/mqdefault.jpg" alt="" />
+                                                          </a>
+                                                       </div><!-- Post thumb end -->
+
+                                                       <div class="post-content">
+                                                          
+                                                          <h2 class="post-title">
+                                                             <a href="https://bodephatquoc.org/video/7133-so-182-hue-phuong-duyen-dieu-co">Số 182: Huệ Phương Duyên - Diệu Cơ</a>
+                                                          </h2>
+                                                          <div class="post-meta">
+                                                             <span class="post-date">31/07/2023</span>
+                                                          </div>
+                                                       </div><!-- Post content end -->
+                                                    </div><!-- Post Overaly Article 1 end --><div class="post-overaly-style text-center clearfix">
+                                                       <div class="post-thumb">
+                                                          <a href="https://bodephatquoc.org/video/7102-so-181-minh-tu-dieu-minh">
+                                                             <img class="img-fluid" src="https://i.ytimg.com/vi/_XbwpIcDdxE/mqdefault.jpg" alt="" />
+                                                          </a>
+                                                       </div><!-- Post thumb end -->
+
+                                                       <div class="post-content">
+                                                          
+                                                          <h2 class="post-title">
+                                                             <a href="https://bodephatquoc.org/video/7102-so-181-minh-tu-dieu-minh">Số 181: Minh Từ  - Diệu Minh</a>
+                                                          </h2>
+                                                          <div class="post-meta">
+                                                             <span class="post-date">25/07/2023</span>
+                                                          </div>
+                                                       </div><!-- Post content end -->
+                                                    </div><!-- Post Overaly Article 1 end -->                                    
+
+                                </div><!-- Item 1 end -->
+
+                                <div class="item">
+
+                                    <div class="post-overaly-style text-center clearfix">
+                                                       <div class="post-thumb">
+                                                          <a href="https://bodephatquoc.org/video/7095-so-180-thanh-tri-tam-chanh-giai">
+                                                             <img class="img-fluid" src="https://i.ytimg.com/vi/ffONnWXuusE/mqdefault.jpg" alt="" />
+                                                          </a>
+                                                       </div><!-- Post thumb end -->
+
+                                                       <div class="post-content">
+                                                          
+                                                          <h2 class="post-title">
+                                                             <a href="https://bodephatquoc.org/video/7095-so-180-thanh-tri-tam-chanh-giai">Số 180: Thánh Trí - Tâm Chánh Giải</a>
+                                                          </h2>
+                                                          <div class="post-meta">
+                                                             <span class="post-date">22/07/2023</span>
+                                                          </div>
+                                                       </div><!-- Post content end -->
+                                                    </div><!-- Post Overaly Article 1 end --><div class="post-overaly-style text-center clearfix">
+                                                       <div class="post-thumb">
+                                                          <a href="https://bodephatquoc.org/video/7068-so-179-minh-tu-tue-hanh">
+                                                             <img class="img-fluid" src="https://i.ytimg.com/vi/Nbm8CEa1j2M/mqdefault.jpg" alt="" />
+                                                          </a>
+                                                       </div><!-- Post thumb end -->
+
+                                                       <div class="post-content">
+                                                          
+                                                          <h2 class="post-title">
+                                                             <a href="https://bodephatquoc.org/video/7068-so-179-minh-tu-tue-hanh">Số 179: Minh Từ - Tuệ Hạnh</a>
+                                                          </h2>
+                                                          <div class="post-meta">
+                                                             <span class="post-date">20/07/2023</span>
+                                                          </div>
+                                                       </div><!-- Post content end -->
+                                                    </div><!-- Post Overaly Article 1 end --><div class="post-overaly-style text-center clearfix">
+                                                       <div class="post-thumb">
+                                                          <a href="https://bodephatquoc.org/video/7063-so-178-hue-phuong-duyen-chon-my-hoa">
+                                                             <img class="img-fluid" src="https://i.ytimg.com/vi/2sI8sDWvB0c/mqdefault.jpg" alt="" />
+                                                          </a>
+                                                       </div><!-- Post thumb end -->
+
+                                                       <div class="post-content">
+                                                          
+                                                          <h2 class="post-title">
+                                                             <a href="https://bodephatquoc.org/video/7063-so-178-hue-phuong-duyen-chon-my-hoa">Số 178: Huệ Phương Duyên - Chơn Mỹ Hòa</a>
+                                                          </h2>
+                                                          <div class="post-meta">
+                                                             <span class="post-date">16/07/2023</span>
+                                                          </div>
+                                                       </div><!-- Post content end -->
+                                                    </div><!-- Post Overaly Article 1 end -->
+                                </div><!-- Item 2 end -->
+
+                            </div><!-- Post slide carousel end -->
+
+                        </div><!-- Trending news end -->
+
+                    </div><!-- Sidebar right end -->
+                </div><!-- Sidebar Col end -->
+
+            </div><!-- Row end -->
+        </div><!-- Container end -->
+    </section><!-- First block end --> 
+
+    <section class="block-wrapper">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-4">
+                    <div class="block color-dark-blue">
+                        <h3 class="block-title"><span>Kinh Thủ Lăng Nghiêm</span></h3>
+                        <div class="post-overaly-style clearfix">
+                                    <div class="post-thumb">
+                                        <a href="https://bodephatquoc.org/video/1493-kinh-lang-nghiem-phan-cuoi">
+                                            <img class="img-fluid" src="https://i.ytimg.com/vi/cCMmJShVB7k/mqdefault.jpg" alt="" />
+                                        </a>
+                                    </div>
+                                    
+                                    <div class="post-content">
+                                        <h2 class="post-title">
+                                            <a href="https://bodephatquoc.org/video/1493-kinh-lang-nghiem-phan-cuoi">Kinh Lăng Nghiêm - Phần cuối</a>
+                                        </h2>
+                                        <div class="post-meta">
+                                            <span class="post-date">11/02/2021</span>
+                                        </div>
+                                    </div><!-- Post content end -->
+                                </div><!-- Post Overaly Article end -->                        
+
+                        <div class="list-post-block">
+                            <ul class="list-post">
+                                <li class="clearfix">
+                                                    <div class="post-block-style post-float clearfix">
+                                                        <div class="post-thumb">
+                                                            <a href="https://bodephatquoc.org/video/1492-kinh-lang-nghiem-phan-154">
+                                                                <img class="img-fluid" src="https://i.ytimg.com/vi/l-hZDlXfN0Y/mqdefault.jpg" alt="" />
+                                                            </a>
+                                                           
+                                                        </div><!-- Post thumb end -->
+
+                                                        <div class="post-content">
+                                                            <h2 class="post-title title-small">
+                                                                <a href="https://bodephatquoc.org/video/1492-kinh-lang-nghiem-phan-154">Kinh Lăng Nghiêm - Phần 154</a>
+                                                            </h2>
+                                                            <div class="post-meta">
+                                                                <span class="post-date">11/02/2021</span>
+                                                            </div>
+                                                        </div><!-- Post content end -->
+                                                    </div><!-- Post block style end -->
+                                                </li><!-- Li 1 end --><li class="clearfix">
+                                                    <div class="post-block-style post-float clearfix">
+                                                        <div class="post-thumb">
+                                                            <a href="https://bodephatquoc.org/video/1491-kinh-lang-nghiem-phan-153">
+                                                                <img class="img-fluid" src="https://i.ytimg.com/vi/jWR46TVZj0U/mqdefault.jpg" alt="" />
+                                                            </a>
+                                                           
+                                                        </div><!-- Post thumb end -->
+
+                                                        <div class="post-content">
+                                                            <h2 class="post-title title-small">
+                                                                <a href="https://bodephatquoc.org/video/1491-kinh-lang-nghiem-phan-153">Kinh Lăng Nghiêm - Phần 153</a>
+                                                            </h2>
+                                                            <div class="post-meta">
+                                                                <span class="post-date">11/02/2021</span>
+                                                            </div>
+                                                        </div><!-- Post content end -->
+                                                    </div><!-- Post block style end -->
+                                                </li><!-- Li 1 end --><li class="clearfix">
+                                                    <div class="post-block-style post-float clearfix">
+                                                        <div class="post-thumb">
+                                                            <a href="https://bodephatquoc.org/video/1490-kinh-lang-nghiem-phan-152">
+                                                                <img class="img-fluid" src="https://i.ytimg.com/vi/A_3pVzYOHkM/mqdefault.jpg" alt="" />
+                                                            </a>
+                                                           
+                                                        </div><!-- Post thumb end -->
+
+                                                        <div class="post-content">
+                                                            <h2 class="post-title title-small">
+                                                                <a href="https://bodephatquoc.org/video/1490-kinh-lang-nghiem-phan-152">Kinh Lăng Nghiêm - Phần 152</a>
+                                                            </h2>
+                                                            <div class="post-meta">
+                                                                <span class="post-date">11/02/2021</span>
+                                                            </div>
+                                                        </div><!-- Post content end -->
+                                                    </div><!-- Post block style end -->
+                                                </li><!-- Li 1 end -->                            </ul><!-- List post end -->
+                        </div><!-- List post block end -->
+                    </div><!-- Block end -->
+                </div><!-- Travel Col end -->
+
+                <div class="col-lg-4">
+                    <div class="block color-aqua">
+                        <h3 class="block-title"><span>Phật Pháp Căn Bản (Mới)</span></h3>
+                        <div class="post-overaly-style clearfix">
+                                    <div class="post-thumb">
+                                        <a href="https://bodephatquoc.org/video/4750-bai-88-y-nghia-12-nhan-duyen-danh-sac-">
+                                            <img class="img-fluid" src="https://i.ytimg.com/vi/X4bU0l-3wlY/mqdefault.jpg" alt="" />
+                                        </a>
+                                    </div>
+                                    
+                                    <div class="post-content">
+                                        <h2 class="post-title">
+                                            <a href="https://bodephatquoc.org/video/4750-bai-88-y-nghia-12-nhan-duyen-danh-sac-">Bài 88: Ý Nghĩa 12 Nhân Duyên (Danh, Sắc)</a>
+                                        </h2>
+                                        <div class="post-meta">
+                                            <span class="post-date">11/05/2022</span>
+                                        </div>
+                                    </div><!-- Post content end -->
+                                </div><!-- Post Overaly Article end -->                        
+
+                        <div class="list-post-block">
+                            <ul class="list-post">
+                                <li class="clearfix">
+                                                    <div class="post-block-style post-float clearfix">
+                                                        <div class="post-thumb">
+                                                            <a href="https://bodephatquoc.org/video/4731-bai-87-y-nghia-12-nhan-duyen-thuc-">
+                                                                <img class="img-fluid" src="https://i.ytimg.com/vi/D04YaOMPAO8/mqdefault.jpg" alt="" />
+                                                            </a>
+                                                            
+                                                        </div><!-- Post thumb end -->
+
+                                                        <div class="post-content">
+                                                            <h2 class="post-title title-small">
+                                                                <a href="https://bodephatquoc.org/video/4731-bai-87-y-nghia-12-nhan-duyen-thuc-">Bài 87: Ý Nghĩa 12 Nhân Duyên (Thức )</a>
+                                                            </h2>
+                                                            <div class="post-meta">
+                                                                <span class="post-date">06/05/2022</span>
+                                                            </div>
+                                                        </div><!-- Post content end -->
+                                                    </div><!-- Post block style end -->
+                                                </li><!-- Li 1 end --><li class="clearfix">
+                                                    <div class="post-block-style post-float clearfix">
+                                                        <div class="post-thumb">
+                                                            <a href="https://bodephatquoc.org/video/4684-bai-86-y-nghia-12-nhan-duyen">
+                                                                <img class="img-fluid" src="https://i.ytimg.com/vi/-EPtGI6_c2Q/mqdefault.jpg" alt="" />
+                                                            </a>
+                                                            
+                                                        </div><!-- Post thumb end -->
+
+                                                        <div class="post-content">
+                                                            <h2 class="post-title title-small">
+                                                                <a href="https://bodephatquoc.org/video/4684-bai-86-y-nghia-12-nhan-duyen">Bài 86: Ý Nghĩa 12 Nhân Duyên</a>
+                                                            </h2>
+                                                            <div class="post-meta">
+                                                                <span class="post-date">27/04/2022</span>
+                                                            </div>
+                                                        </div><!-- Post content end -->
+                                                    </div><!-- Post block style end -->
+                                                </li><!-- Li 1 end --><li class="clearfix">
+                                                    <div class="post-block-style post-float clearfix">
+                                                        <div class="post-thumb">
+                                                            <a href="https://bodephatquoc.org/video/4640-bai-85-duyen-khoi-phan-2-">
+                                                                <img class="img-fluid" src="https://i.ytimg.com/vi/WyoiTUzKbFM/mqdefault.jpg" alt="" />
+                                                            </a>
+                                                            
+                                                        </div><!-- Post thumb end -->
+
+                                                        <div class="post-content">
+                                                            <h2 class="post-title title-small">
+                                                                <a href="https://bodephatquoc.org/video/4640-bai-85-duyen-khoi-phan-2-">Bài 85: Duyên Khởi (phần 2)</a>
+                                                            </h2>
+                                                            <div class="post-meta">
+                                                                <span class="post-date">18/04/2022</span>
+                                                            </div>
+                                                        </div><!-- Post content end -->
+                                                    </div><!-- Post block style end -->
+                                                </li><!-- Li 1 end -->                            </ul><!-- List post end -->
+                        </div><!-- List post block end -->
+                    </div><!-- Block end -->
+                </div><!-- Gadget Col end -->
+
+                <div class="col-lg-4">
+                    <div class="block color-violet">
+                        <h3 class="block-title"><span>A Tỳ Đạt Ma Câu Xá Luận</span></h3>
+                        <div class="post-overaly-style clearfix">
+                                    <div class="post-thumb">
+                                        <a href="https://bodephatquoc.org/video/9633-bai-267-pham-chat-pho-quat-va-ca-biet-cua-chu-phat-phan-1">
+                                            <img class="img-fluid" src="https://i.ytimg.com/vi/P2rmsMpuE5U/mqdefault.jpg" alt="" />
+                                        </a>
+                                    </div>
+                                    
+                                    <div class="post-content">
+                                        <h2 class="post-title">
+                                            <a href="https://bodephatquoc.org/video/9633-bai-267-pham-chat-pho-quat-va-ca-biet-cua-chu-phat-phan-1">Bài 267: Phẩm Chất Phổ Quát và Cá Biệt của Chư Phật - Phần 1</a>
+                                        </h2>
+                                        <div class="post-meta">
+                                            <span class="post-date">14/05/2025</span>
+                                        </div>
+                                    </div><!-- Post content end -->
+                                </div><!-- Post Overaly Article end -->
+                        <div class="list-post-block">
+                            <ul class="list-post">
+                                <li class="clearfix">
+                                                    <div class="post-block-style post-float clearfix">
+                                                        <div class="post-thumb">
+                                                            <a href="https://bodephatquoc.org/video/9631-bai-268-pham-chat-pho-quat-va-ca-biet-cua-chu-phat-phan-2">
+                                                                <img class="img-fluid" src="https://i.ytimg.com/vi/UMR1va9CcPg/mqdefault.jpg" alt="" />
+                                                            </a>
+                                                            
+                                                        </div><!-- Post thumb end -->
+
+                                                        <div class="post-content">
+                                                            <h2 class="post-title title-small">
+                                                                <a href="https://bodephatquoc.org/video/9631-bai-268-pham-chat-pho-quat-va-ca-biet-cua-chu-phat-phan-2">Bài 268: Phẩm Chất Phổ Quát và Cá Biệt của Chư Phật - Phần 2</a>
+                                                            </h2>
+                                                            <div class="post-meta">
+                                                                <span class="post-date">14/05/2025</span>
+                                                            </div>
+                                                        </div><!-- Post content end -->
+                                                    </div><!-- Post block style end -->
+                                                </li><!-- Li 1 end --><li class="clearfix">
+                                                    <div class="post-block-style post-float clearfix">
+                                                        <div class="post-thumb">
+                                                            <a href="https://bodephatquoc.org/video/9613-bai-266-ba-niem-tru">
+                                                                <img class="img-fluid" src="https://i.ytimg.com/vi/AZJt4yd7H94/mqdefault.jpg" alt="" />
+                                                            </a>
+                                                            
+                                                        </div><!-- Post thumb end -->
+
+                                                        <div class="post-content">
+                                                            <h2 class="post-title title-small">
+                                                                <a href="https://bodephatquoc.org/video/9613-bai-266-ba-niem-tru">Bài 266: Ba Niệm Trụ</a>
+                                                            </h2>
+                                                            <div class="post-meta">
+                                                                <span class="post-date">01/05/2025</span>
+                                                            </div>
+                                                        </div><!-- Post content end -->
+                                                    </div><!-- Post block style end -->
+                                                </li><!-- Li 1 end --><li class="clearfix">
+                                                    <div class="post-block-style post-float clearfix">
+                                                        <div class="post-thumb">
+                                                            <a href="https://bodephatquoc.org/video/9606-bai-265-bon-vo-uy">
+                                                                <img class="img-fluid" src="https://i.ytimg.com/vi/L7sXZskMCyE/mqdefault.jpg" alt="" />
+                                                            </a>
+                                                            
+                                                        </div><!-- Post thumb end -->
+
+                                                        <div class="post-content">
+                                                            <h2 class="post-title title-small">
+                                                                <a href="https://bodephatquoc.org/video/9606-bai-265-bon-vo-uy">Bài 265: Bốn Vô Úy</a>
+                                                            </h2>
+                                                            <div class="post-meta">
+                                                                <span class="post-date">01/05/2025</span>
+                                                            </div>
+                                                        </div><!-- Post content end -->
+                                                    </div><!-- Post block style end -->
+                                                </li><!-- Li 1 end -->                            </ul><!-- List post end -->
+                        </div><!-- List post block end -->
+                    </div><!-- Block end -->
+                </div><!-- Health Col end -->
+
+            </div><!-- Row end -->
+        </div><!-- Container end -->
+    </section><!-- 2nd block end --> 
+
+    <section class="block-wrapper video-block">
+        <div class="container">
+            <div class="row">
+                <div class="video-tab clearfix">
+                    <h2 class="video-tab-title">Hộ Trì Chánh Pháp</h2>
+                    <div class="row">
+                    <div class="col-lg-7 pad-r-0">
+                        <div class="tab-content">
+                          <div class="tab-pane active animated fadeIn" id="video0">
+                                      <div class="post-overaly-style clearfix">
+                                         <div class="post-thumb">
+                                              <img class="img-fluid" src="https://i.ytimg.com/vi/LrfTk2cLS-c/mqdefault.jpg" alt="" />
+                                              <a class="popup" href="https://www.youtube.com/embed/LrfTk2cLS-c?autoplay=1&amp;loop=1">
+                                            <div class="video-icon">
+                                              <i class="fa fa-play"></i>
+                                          </div>
+                                          </a>
+                                         </div><!-- Post thumb end -->
+                                         <div class="post-content">
+                                            <h2 class="post-title">
+                                               <a href="https://bodephatquoc.org//10600-le-ta-phap-tat-nien-8-2-2026">Lễ Tạ Pháp - Tất Niên 8/2/2026</a>
+                                            </h2>
+                                         </div><!-- Post content end -->
+                                      </div><!-- Post Overaly Article end -->
+                                  </div><!--Tab pane 1 end--><div class="tab-pane  animated fadeIn" id="video1">
+                                      <div class="post-overaly-style clearfix">
+                                         <div class="post-thumb">
+                                              <img class="img-fluid" src="https://i.ytimg.com/vi/ze-e1unHd1k/mqdefault.jpg" alt="" />
+                                              <a class="popup" href="https://www.youtube.com/embed/ze-e1unHd1k?autoplay=1&amp;loop=1">
+                                            <div class="video-icon">
+                                              <i class="fa fa-play"></i>
+                                          </div>
+                                          </a>
+                                         </div><!-- Post thumb end -->
+                                         <div class="post-content">
+                                            <h2 class="post-title">
+                                               <a href="https://bodephatquoc.org//10493-bat-com-huong-tich-80">Bát Cơm Hương Tích - 80</a>
+                                            </h2>
+                                         </div><!-- Post content end -->
+                                      </div><!-- Post Overaly Article end -->
+                                  </div><!--Tab pane 1 end--><div class="tab-pane  animated fadeIn" id="video2">
+                                      <div class="post-overaly-style clearfix">
+                                         <div class="post-thumb">
+                                              <img class="img-fluid" src="https://i.ytimg.com/vi/K3g0UZ3-aaw/mqdefault.jpg" alt="" />
+                                              <a class="popup" href="https://www.youtube.com/embed/K3g0UZ3-aaw?autoplay=1&amp;loop=1">
+                                            <div class="video-icon">
+                                              <i class="fa fa-play"></i>
+                                          </div>
+                                          </a>
+                                         </div><!-- Post thumb end -->
+                                         <div class="post-content">
+                                            <h2 class="post-title">
+                                               <a href="https://bodephatquoc.org//10490-xay-dung-chanh-dien-dai-hoc-sakya-buddha">XÂY DỰNG CHÁNH ĐIỆN ĐẠI HỌC SAKYA BUDDHA</a>
+                                            </h2>
+                                         </div><!-- Post content end -->
+                                      </div><!-- Post Overaly Article end -->
+                                  </div><!--Tab pane 1 end-->                            
+                            
+
+                        </div><!-- Tab content end -->
+                    </div><!--Tab col end -->
+
+                    <div class="col-lg-5 pad-l-0">
+                        <ul class="nav nav-tabs">
+                          <li class="nav-item active">
+                                        <a class="nav-link animated fadeIn" href="#video0" data-toggle="tab">
+                                            <div class="post-thumb">
+                                                <img class="img-fluid" src="https://i.ytimg.com/vi/LrfTk2cLS-c/mqdefault.jpg" alt="" />
+                                           </div><!-- Post thumb end -->
+                                            <h3>Lễ Tạ Pháp - Tất Niên 8/2/2026</h3>
+                                        </a>
+                                    </li><li class="nav-item active">
+                                        <a class="nav-link animated fadeIn" href="#video1" data-toggle="tab">
+                                            <div class="post-thumb">
+                                                <img class="img-fluid" src="https://i.ytimg.com/vi/ze-e1unHd1k/mqdefault.jpg" alt="" />
+                                           </div><!-- Post thumb end -->
+                                            <h3>Bát Cơm Hương Tích - 80</h3>
+                                        </a>
+                                    </li><li class="nav-item active">
+                                        <a class="nav-link animated fadeIn" href="#video2" data-toggle="tab">
+                                            <div class="post-thumb">
+                                                <img class="img-fluid" src="https://i.ytimg.com/vi/K3g0UZ3-aaw/mqdefault.jpg" alt="" />
+                                           </div><!-- Post thumb end -->
+                                            <h3>XÂY DỰNG CHÁNH ĐIỆN ĐẠI HỌC SAKYA BUDDHA</h3>
+                                        </a>
+                                    </li>                            
+                           
+                        </ul>
+                    </div><!--Tab nav col end -->
+
+                    </div>
+                </div><!-- Video tab end -->
+
+            </div><!-- Row end -->
+        </div><!-- Container end -->
+    </section><!-- Video block end --> 
+
+    <section class="block-wrapper p-bottom-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-12">
+                    <div class="more-news block color-default">
+                        <h3 class="block-title"><span>Hình Ảnh</span></h3>
+
+                        <div id="more-news-slide" class="owl-carousel owl-theme more-news-slide">
+                            <div class="item">
+                                <div class="post-block-style post-float-half clearfix">
+                                                <div class="post-thumb">
+                                                    <a href="https://bodephatquoc.org/hinh-anh/118-bat-com-huong-tich-lan-30-ngay-8-5-2022-">
+                                                        <img class="img-fluid" src="https://bdpq.sakyauniversity.com/cdn-cgi/image/width=420,quality=85/files/collection/202205/thumbnail/600x400/1652482511-bat-com-huong-tich-lan-30-ngay-8-5-2022-.jpg" alt="" />
+                                                    </a>
+                                                </div>
+                                                
+                                                <div class="post-content">
+                                                    <h2 class="post-title">
+                                                        <a href="https://bodephatquoc.org/hinh-anh/118-bat-com-huong-tich-lan-30-ngay-8-5-2022-">Bát Cơm Hương Tích – Lần 30 (Ngày 8/5/2022)</a>
+                                                    </h2>
+                                                    <div class="post-meta">
+                                                        
+                                                        <span class="post-date">14/05/2022</span>
+                                                    </div>
+                                                    <p>Trưa ngày 8/5/2022, Chương trình Bát Cơm Hương Tích đã bảo trợ 150 phần cơm cho người già neo đơn và bệnh nhân tại Trung Tâm Y Tế huyện Tây Sơn, tỉnh Bình Định. Mỗi phần cơm trị giá 1 USD. Chương trình sẽ được thực hiện mỗi chủ nhật hàng tuần. Chúng tôi xin chân thành cả...</p>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Post Block style 1 end --><div class="gap-30"></div><div class="post-block-style post-float-half clearfix">
+                                                <div class="post-thumb">
+                                                    <a href="https://bodephatquoc.org/hinh-anh/117-bat-com-huong-tich-lan-29-ngay-01-5-2022-">
+                                                        <img class="img-fluid" src="https://bdpq.sakyauniversity.com/cdn-cgi/image/width=420,quality=85/files/collection/202205/thumbnail/600x400/1652482157-bat-com-huong-tich-lan-29-ngay-01-5-2022-.jpg" alt="" />
+                                                    </a>
+                                                </div>
+                                                
+                                                <div class="post-content">
+                                                    <h2 class="post-title">
+                                                        <a href="https://bodephatquoc.org/hinh-anh/117-bat-com-huong-tich-lan-29-ngay-01-5-2022-">Bát Cơm Hương Tích – Lần 29 (Ngày 01/5/2022)</a>
+                                                    </h2>
+                                                    <div class="post-meta">
+                                                        
+                                                        <span class="post-date">14/05/2022</span>
+                                                    </div>
+                                                    <p>rưa ngày 01/5/2022, Chương trình Bát Cơm Hương Tích đã bảo trợ 150 phần cơm cho người già neo đơn và bệnh nhân tại Trung Tâm Y Tế huyện Tây Sơn, tỉnh Bình Định. Mỗi phần cơm trị giá 1 USD. Chương trình sẽ được thực hiện mỗi chủ nhật hàng tuần. </p>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Post Block style 1 end --><div class="gap-30"></div><div class="post-block-style post-float-half clearfix">
+                                                <div class="post-thumb">
+                                                    <a href="https://bodephatquoc.org/hinh-anh/116-bat-com-huong-tich-lan-28-ngay-24-4-2022-">
+                                                        <img class="img-fluid" src="https://bdpq.sakyauniversity.com/cdn-cgi/image/width=420,quality=85/files/collection/202205/thumbnail/600x400/1652481208-bat-com-huong-tich-lan-28-ngay-24-4-2022-.jpg" alt="" />
+                                                    </a>
+                                                </div>
+                                                
+                                                <div class="post-content">
+                                                    <h2 class="post-title">
+                                                        <a href="https://bodephatquoc.org/hinh-anh/116-bat-com-huong-tich-lan-28-ngay-24-4-2022-">Bát Cơm Hương Tích – Lần 28 (Ngày 24/4/2022)</a>
+                                                    </h2>
+                                                    <div class="post-meta">
+                                                        
+                                                        <span class="post-date">14/05/2022</span>
+                                                    </div>
+                                                    <p>Trưa ngày 24/4/2022, Chương trình Bát Cơm Hương Tích đã bảo trợ 150 phần cơm cho người già neo đơn và bệnh nhân tại Trung Tâm Y Tế huyện Tây Sơn, tỉnh Bình Định. Mỗi phần cơm trị giá 1 USD. Chúng tôi xin chân thành cảm ơn quý vị hảo tâm yểm trợ. </p>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Post Block style 1 end --><div class="gap-30"></div><div class="post-block-style post-float-half clearfix">
+                                                <div class="post-thumb">
+                                                    <a href="https://bodephatquoc.org/hinh-anh/115-bat-com-huong-tich-lan-27-ngay-17-4-2022-">
+                                                        <img class="img-fluid" src="https://bdpq.sakyauniversity.com/cdn-cgi/image/width=420,quality=85/files/collection/202205/thumbnail/600x400/1652481026-bat-com-huong-tich-lan-27-ngay-17-4-2022-.jpg" alt="" />
+                                                    </a>
+                                                </div>
+                                                
+                                                <div class="post-content">
+                                                    <h2 class="post-title">
+                                                        <a href="https://bodephatquoc.org/hinh-anh/115-bat-com-huong-tich-lan-27-ngay-17-4-2022-">Bát Cơm Hương Tích – Lần 27 (Ngày 17/4/2022)</a>
+                                                    </h2>
+                                                    <div class="post-meta">
+                                                        
+                                                        <span class="post-date">14/05/2022</span>
+                                                    </div>
+                                                    <p>Trưa ngày 17/4/2022, Chương trình Bát Cơm Hương Tích đã bảo trợ 150 phần cơm cho người già neo đơn và bệnh nhân tại Trung Tâm Y Tế huyện Tây Sơn, tỉnh Bình Định. Mỗi phần cơm trị giá 1 USD. Chương trình sẽ được thực hiện mỗi chủ nhật hàng tuần. Chúng tôi xin chân thành cả...</p>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Post Block style 1 end -->                                
+                            </div><!-- Item 1 end -->
+
+                            <div class="item">
+                                <div class="post-block-style post-float-half clearfix">
+                                                <div class="post-thumb">
+                                                    <a href="https://bodephatquoc.org/hinh-anh/114-bat-com-huong-tich-lan-26-ngay-10-4-2022-">
+                                                        <img class="img-fluid" src="https://bdpq.sakyauniversity.com/cdn-cgi/image/width=420,quality=85/files/collection/202204/thumbnail/600x400/1649607787-bat-com-huong-tich-lan-26-ngay-10-4-2022-.jpg" alt="" />
+                                                    </a>
+                                                </div>
+                                                
+                                                <div class="post-content">
+                                                    <h2 class="post-title">
+                                                        <a href="https://bodephatquoc.org/hinh-anh/114-bat-com-huong-tich-lan-26-ngay-10-4-2022-">Bát Cơm Hương Tích – Lần 26 (Ngày 10/4/2022)</a>
+                                                    </h2>
+                                                    <div class="post-meta">
+                                                        <span class="post-date">10/04/2022</span>
+                                                    </div>
+                                                    <p>Trưa ngày 10/4/2022, Chương trình Bát Cơm Hương Tích đã bảo trợ 150 phần cơm cho người già neo đơn và bệnh nhân tại Trung Tâm Y Tế huyện Tây Sơn, tỉnh Bình Định. Mỗi phần cơm trị giá 1 USD. Chương trình sẽ được thực hiện mỗi chủ nhật hàng tuần. Chúng tôi xin chân thành cả...</p>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Post Block style 1 end --><div class="gap-30"></div><div class="post-block-style post-float-half clearfix">
+                                                <div class="post-thumb">
+                                                    <a href="https://bodephatquoc.org/hinh-anh/113-bat-com-huong-tich-lan-25-ngay-03-4-2022-">
+                                                        <img class="img-fluid" src="https://bdpq.sakyauniversity.com/cdn-cgi/image/width=420,quality=85/files/collection/202204/thumbnail/600x400/1649026534-bat-com-huong-tich-lan-25-ngay-03-4-2022-.jpg" alt="" />
+                                                    </a>
+                                                </div>
+                                                
+                                                <div class="post-content">
+                                                    <h2 class="post-title">
+                                                        <a href="https://bodephatquoc.org/hinh-anh/113-bat-com-huong-tich-lan-25-ngay-03-4-2022-">Bát Cơm Hương Tích – Lần 25 (Ngày 03/4/2022)</a>
+                                                    </h2>
+                                                    <div class="post-meta">
+                                                        <span class="post-date">04/04/2022</span>
+                                                    </div>
+                                                    <p>Trưa ngày 03/4/2022, Chương trình Bát Cơm Hương Tích đã bảo trợ 180 phần cơm cho người già neo đơn và bệnh nhân tại Trung Tâm Y Tế huyện Tây Sơn, tỉnh Bình Định. Mỗi phần cơm trị giá 1 USD. Chương trình sẽ được thực hiện mỗi chủ nhật hàng tuần. Chúng tôi xin chân thành cả...</p>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Post Block style 1 end --><div class="gap-30"></div><div class="post-block-style post-float-half clearfix">
+                                                <div class="post-thumb">
+                                                    <a href="https://bodephatquoc.org/hinh-anh/112-bat-com-huong-tich-lan-24-ngay-27-3-2022-">
+                                                        <img class="img-fluid" src="https://bdpq.sakyauniversity.com/cdn-cgi/image/width=420,quality=85/files/collection/202204/thumbnail/600x400/1649026621-bat-com-huong-tich-lan-24-ngay-27-3-2022-.jpg" alt="" />
+                                                    </a>
+                                                </div>
+                                                
+                                                <div class="post-content">
+                                                    <h2 class="post-title">
+                                                        <a href="https://bodephatquoc.org/hinh-anh/112-bat-com-huong-tich-lan-24-ngay-27-3-2022-">Bát Cơm Hương Tích – Lần 24 (Ngày 27/3/2022)</a>
+                                                    </h2>
+                                                    <div class="post-meta">
+                                                        <span class="post-date">04/04/2022</span>
+                                                    </div>
+                                                    <p>Trưa ngày 27/3/2022, Chương trình Bát Cơm Hương Tích đã bảo trợ 180 phần cơm cho người già neo đơn và bệnh nhân tại Trung Tâm Y Tế huyện Tây Sơn, tỉnh Bình Định. Mỗi phần cơm trị giá 1 USD. Chương trình sẽ được thực hiện mỗi chủ nhật hàng tuần. Chúng tôi xin chân thành cả...</p>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Post Block style 1 end --><div class="gap-30"></div><div class="post-block-style post-float-half clearfix">
+                                                <div class="post-thumb">
+                                                    <a href="https://bodephatquoc.org/hinh-anh/111-bat-com-huong-tich-lan-23-ngay-20-3-2022-">
+                                                        <img class="img-fluid" src="https://bdpq.sakyauniversity.com/cdn-cgi/image/width=420,quality=85/files/collection/202203/thumbnail/600x400/1647887189-bat-com-huong-tich-lan-23-ngay-20-3-2022-.jpg" alt="" />
+                                                    </a>
+                                                </div>
+                                                
+                                                <div class="post-content">
+                                                    <h2 class="post-title">
+                                                        <a href="https://bodephatquoc.org/hinh-anh/111-bat-com-huong-tich-lan-23-ngay-20-3-2022-">Bát Cơm Hương Tích – Lần 23 (Ngày 20/3/2022)</a>
+                                                    </h2>
+                                                    <div class="post-meta">
+                                                        <span class="post-date">22/03/2022</span>
+                                                    </div>
+                                                    <p>Trưa ngày 20/3/2021, Chương trình Bát Cơm Hương Tích đã bảo trợ 200 phần cơm cho người già neo đơn và bệnh nhân tại Trung Tâm Y Tế huyện Tây Sơn, tỉnh Bình Định. Mỗi phần cơm trị giá 1 USD. Chương trình sẽ được thực hiện mỗi chủ nhật hàng tuần. Chúng tôi xin chân thành cả...</p>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Post Block style 1 end -->                            </div><!-- Item 2 end -->
+                            
+                        </div><!-- More news carousel end -->
+                    </div><!--More news block end -->
+                </div><!-- Content Col end -->
+
+                <div class="col-lg-4 col-sm-12">
+                    <div class="sidebar sidebar-right">
+
+                        <div class="widget color-default">
+                            <h3 class="block-title"><span>Người việt yêu sử Việt</span></h3>
+                            <div class="list-post-block">
+                                <ul class="list-post review-post-list">
+                                    <li class="clearfix">
+                                                        <div class="post-block-style post-float clearfix">
+                                                            <div class="post-thumb">
+                                                                <a href="https://bodephatquoc.org/video/10575-bai-40-ky-nha-tra-n-thoi-ky-suy-vong">
+                                                                    <img class="img-fluid" src="https://i.ytimg.com/vi/7h2A7_pcUcw/mqdefault.jpg" alt="" />
+                                                                </a>
+                                                                <!--a class="post-cat" href="#">Gadgets</a-->
+                                                            </div><!-- Post thumb end -->
+
+                                                            <div class="post-content">
+                                                                <h2 class="post-title title-small">
+                                                                    <a href="https://bodephatquoc.org/video/10575-bai-40-ky-nha-tra-n-thoi-ky-suy-vong">Bài 40 - Kỷ Nhà Trần - Thời kỳ Suy Vong</a>
+                                                                </h2>
+                                                                <div class="post-meta">
+                                                                    <span class="post-date">11/02/2026</span>
+                                                                </div>
+                                                            </div><!-- Post content end -->
+                                                        </div><!-- Post block style end -->
+                                                    </li><!-- Li 1 end --><li class="clearfix">
+                                                        <div class="post-block-style post-float clearfix">
+                                                            <div class="post-thumb">
+                                                                <a href="https://bodephatquoc.org/video/10563-bai-39-ky-nha-tra-n-minh-tong-hoang-de">
+                                                                    <img class="img-fluid" src="https://i.ytimg.com/vi/71WbAcsx2Aw/mqdefault.jpg" alt="" />
+                                                                </a>
+                                                                <!--a class="post-cat" href="#">Gadgets</a-->
+                                                            </div><!-- Post thumb end -->
+
+                                                            <div class="post-content">
+                                                                <h2 class="post-title title-small">
+                                                                    <a href="https://bodephatquoc.org/video/10563-bai-39-ky-nha-tra-n-minh-tong-hoang-de">Bài 39 - Kỷ Nhà Trần - Minh Tông Hoàng Đế</a>
+                                                                </h2>
+                                                                <div class="post-meta">
+                                                                    <span class="post-date">05/02/2026</span>
+                                                                </div>
+                                                            </div><!-- Post content end -->
+                                                        </div><!-- Post block style end -->
+                                                    </li><!-- Li 1 end --><li class="clearfix">
+                                                        <div class="post-block-style post-float clearfix">
+                                                            <div class="post-thumb">
+                                                                <a href="https://bodephatquoc.org/video/10536-bai-38-ky-nha-tra-n-anh-tong-hoang-de">
+                                                                    <img class="img-fluid" src="https://i.ytimg.com/vi/Silqp-5dl-I/mqdefault.jpg" alt="" />
+                                                                </a>
+                                                                <!--a class="post-cat" href="#">Gadgets</a-->
+                                                            </div><!-- Post thumb end -->
+
+                                                            <div class="post-content">
+                                                                <h2 class="post-title title-small">
+                                                                    <a href="https://bodephatquoc.org/video/10536-bai-38-ky-nha-tra-n-anh-tong-hoang-de">Bài 38 - Kỷ Nhà Trần - Anh Tông Hoàng Đế</a>
+                                                                </h2>
+                                                                <div class="post-meta">
+                                                                    <span class="post-date">28/01/2026</span>
+                                                                </div>
+                                                            </div><!-- Post content end -->
+                                                        </div><!-- Post block style end -->
+                                                    </li><!-- Li 1 end --><li class="clearfix">
+                                                        <div class="post-block-style post-float clearfix">
+                                                            <div class="post-thumb">
+                                                                <a href="https://bodephatquoc.org/video/10525-bai-37-ky-nha-tra-n-hung-dao-vuong-tran-quoc-tuan">
+                                                                    <img class="img-fluid" src="https://i.ytimg.com/vi/NYOC9_Kkbw8/mqdefault.jpg" alt="" />
+                                                                </a>
+                                                                <!--a class="post-cat" href="#">Gadgets</a-->
+                                                            </div><!-- Post thumb end -->
+
+                                                            <div class="post-content">
+                                                                <h2 class="post-title title-small">
+                                                                    <a href="https://bodephatquoc.org/video/10525-bai-37-ky-nha-tra-n-hung-dao-vuong-tran-quoc-tuan">Bài 37 - Kỷ Nhà Trần - Hưng Đạo Vương Trần Quốc Tuấn</a>
+                                                                </h2>
+                                                                <div class="post-meta">
+                                                                    <span class="post-date">28/01/2026</span>
+                                                                </div>
+                                                            </div><!-- Post content end -->
+                                                        </div><!-- Post block style end -->
+                                                    </li><!-- Li 1 end -->
+                                </ul><!-- List post end -->
+                            </div><!-- List post block end -->
+                        </div><!-- Latest Review Widget end -->
+
+
+                        <div class="widget m-bottom-0">
+                            <h3 class="block-title"><span>Newsletter</span></h3>
+                            <div class="ts-newsletter">
+                                <div class="newsletter-introtext">
+                                    <h4>Get Updates</h4>
+                                    <p>Subscribe our newsletter to get the best stories into your inbox!</p>
+                                </div>
+
+                                <div class="newsletter-form">
+                                    <form action="#" method="post">
+                                        <div class="form-group">
+                                            <input type="email" name="email" id="newsletter-form-email" class="form-control form-control-lg" placeholder="E-mail" autocomplete="off">
+                                            <button class="btn btn-primary">Subscribe</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div><!-- Newsletter end -->
+                        </div><!-- Newsletter widget end -->
+                    </div><!--Sidebar right end -->
+                </div><!-- Sidebar col end -->
+            </div><!-- Row end -->
+        </div><!-- Container end -->
+    </section><!-- 3rd block end --> 
+
+
+    <section class="ad-content-area text-center">
+    </section><!-- Ad content two end -->
+
+    <script type="text/javascript"> 
+    function txtsearch(e)
+    {
+        if(e.keyCode === 13){
+            e.preventDefault(); // Ensure it is only this code that runs
+            var txtSearch = $('#txtSearch').val();
+            window.location.href= "https://bodephatquoc.org/tim-kiem/" + txtSearch;
+        }
+    }
+</script>
+
+<footer id="footer" class="footer">
+        <div class="footer-info text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        
+                            <div class="footer-logo">
+                                <img class="img-fluid" src="images/logos/logo-bodephatquoc.png" alt="" />
+                            </div>
+                            <p>VIỆN PHẬT HỌC BỒ ĐỀ PHẬT QUỐC<br />
+                            Thực hiện: Phòng truyền thông Viện Phật Học Bồ Đề Phật Quốc <br />
+                            Địa chỉ: 3404 Westminster Ave., Santa Ana, CA 92703, U.S.A
+                            <p class="footer-info-phone"><i class="fa fa-phone"></i> +(714) 328–6087</p>
+                            <p class="footer-info-email"><i class="fa fa-envelope-o"></i> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0e78676b607e666f7a66616d6c616a6b7e666f7a7f7b616d4e69636f6762206d6163">[email&#160;protected]</a></p>
+                            <ul class="unstyled footer-social">
+                                <li>
+                                    
+                                    <a target="_blank" title="Facebook" href="https://www.facebook.com/thichhuyenchau">
+                                        <span class="social-icon"><i class="fa fa-facebook"></i></span>
+                                    </a>
+
+                                    <a target="_blank" title="Youtube" href="https://www.youtube.com/channel/UC-NHxZinVV8ayr3AtKpqIPw">
+                                        <span class="social-icon"><i class="fa fa-youtube"></i></span>
+                                    </a>
+                                    
+                                    
+                                </li>
+                            </ul>
+                        
+                    </div><!-- Col end -->
+                </div><!-- Row end -->
+            </div><!-- Container end -->
+        </div><!-- Footer info end -->
+
+    </footer><!-- Footer end -->
+
+    
+
+
+    <!-- Javascript Files
+    ================================================== -->
+
+    <!-- initialize jQuery Library -->
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="js/jquery.js"></script>
+    <!-- Popper Jquery -->
+    <script type="text/javascript" src="js/popper.min.js"></script>
+    <!-- Bootstrap jQuery -->
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <!-- Owl Carousel -->
+    <script type="text/javascript" src="js/owl.carousel.min.js"></script>
+    <!-- Color box -->
+    <script type="text/javascript" src="js/jquery.colorbox.js"></script>
+    <!-- Smoothscroll 
+    <script type="text/javascript" src="js/smoothscroll.js"></script>
+    -->
+
+    <!-- Template custom -->
+    <script type="text/javascript" src="js/custom.js"></script>
+    
+    </div><!-- Body inner end -->
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"28abb952ba06475a96b8a3076356c27e","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
+

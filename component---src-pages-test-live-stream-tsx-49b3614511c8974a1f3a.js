@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_minimal_ts=self.webpackChunkgatsby_starter_minimal_ts||[]).push([[7959],{2089:function(e,t,l){l.r(t);var a=l(6540),n=l(7796);t.default=()=>a.createElement("div",{style:{padding:24}},a.createElement("div",null,a.createElement("h1",null,"Live TV"),a.createElement(n.Ay,null)))}}]);
+//# sourceMappingURL=component---src-pages-test-live-stream-tsx-49b3614511c8974a1f3a.js.map
